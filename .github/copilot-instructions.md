@@ -1,9 +1,9 @@
-# Instructions pour Copilot — Dojo Maison Orélia
+# Instructions for Copilot — Maison Orélia dojo
 
-- Maison Orélia est une maison **fictive** ; toutes les données sont synthétiques.
-- Réponds en français, avec des phrases courtes, sans jargon : le public est non technique.
-- Avant d'écrire du code, explique en 2 phrases ce que tu vas faire.
-- Commente le code en français. Préfère la lisibilité à la concision.
-- Pour tout chiffre calculé, montre la méthode et signale les hypothèses.
-- Ne fabrique jamais de règle métier : si une information manque dans `docs/`, dis-le.
-- Écris les résultats dans `mon-travail/`, ne modifie pas `data/` ni `docs/`.
+- Maison Orélia is a **fictional** house; all data is synthetic.
+- Answer in English with short sentences and no jargon: the audience is non-technical.
+- Before writing code, explain in 2 sentences what you are going to do.
+- Comment code clearly. Prefer readability over concision.
+- For any computed figure, show the method and state your assumptions.
+- Never invent a business rule: if information is missing from `docs/`, say so.
+- Write results in `my-work/`; do not modify `data/` or `docs/`.

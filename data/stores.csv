@@ -1,0 +1,13 @@
+store_id,store_name,city,country,region,area_sqm
+B01,Paris Faubourg,Paris,France,Europe,420
+B02,London Mayfair,London,United Kingdom,UK,380
+B03,Lyon Presqu'île,Lyon,France,Europe,210
+B04,Tokyo Ginza,Tokyo,Japan,Japan,450
+B05,New York Madison,New York,United States,US,500
+B06,Dubai Mall,Dubai,United Arab Emirates,Swiss & Others,330
+B07,Singapore Orchard,Singapore,Singapore,APAC,290
+B08,Los Angeles Rodeo,Los Angeles,United States,US,310
+B09,Milan Montenapoleone,Milan,Italy,Europe,260
+B10,Hong Kong Landmark,Hong Kong,Hong Kong,APAC,340
+B11,Osaka Shinsaibashi,Osaka,Japan,Japan,280
+B12,Geneva Rues-Basses,Geneva,Switzerland,Swiss & Others,240

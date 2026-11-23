@@ -1,26 +1,28 @@
-# Aventure d'échauffement — Le premier réflexe Copilot
+# Warm-up adventure — Your first Copilot reflex
 
-**Durée : 15 min · Niveau : tout le monde · Aucune connaissance en code requise**
+**Duration: 15 min · Level: everyone · No coding knowledge required**
 
-## Contexte
-Bienvenue chez **Maison Orélia** (maison de luxe fictive). Vous êtes nouvelle recrue et on vous confie des fichiers que vous n'avez jamais vus. Votre mission : apprivoiser votre copilote.
+New to Copilot? Read the [15-minute introduction](../docs/00-getting-started-with-copilot.md) first.
 
-## Étapes
-1. Ouvrez le panneau **Copilot Chat** (icône de bulle dans la barre latérale).
-2. Lisez `docs/organisation.md` (2 min). Puis, dans `data/`, ouvrez `produits.csv`. Demandez dans le chat :
-   > `Explique-moi ce fichier comme si j'étais nouveau dans l'entreprise.`
-3. Demandez ensuite :
-   > `Quelle est la division avec le prix moyen le plus élevé ? Montre-moi comment tu le calcules.`
-4. Corrigez-le : posez une question volontairement ambiguë (« les meilleurs produits ») et observez comment il demande des précisions ou fait des hypothèses.
+## Context
+Welcome to **Maison Orélia**, a fictional luxury house. You are a newcomer and you are handed files you have never seen. Your mission: tame your copilot.
 
-## Ce qu'il faut retenir
-- Plus votre demande est précise (contexte, objectif, format attendu), meilleure est la réponse.
-- Copilot peut se tromper : **vérifiez toujours** avec une deuxième question ou un calcul à la main.
-- Vous pouvez dialoguer : « plus court », « sous forme de tableau », « explique l'étape 2 ».
+## Steps
+1. Open **Copilot Chat** and select **Ask** mode.
+2. Read `docs/organisation.md` (2 min). Then, in `data/`, open `products.csv` and ask:
+   > `Explain this file to me as if I were new to the company.`
+3. Then ask:
+   > `Which division has the highest average price? Show me how you compute it.`
+4. Be tricky: ask an ambiguous question ("the best products") and watch whether Copilot asks for clarification or makes assumptions.
 
-## Choisissez votre piste
-| Piste | Découverte | Builder | Expert |
+## What to remember
+- The more precise your request (goal, context, constraints, format), the better the answer.
+- Copilot can be wrong: **always verify** with a second question or a manual check.
+- You can keep the conversation going: "shorter", "as a table", "explain step 2".
+
+## Choose your track
+| Track | Discovery | Builder | Expert |
 |---|---|---|---|
-| A. Data analyse | [A1](./1-Decouverte/A1-Le-Mystere-des-ventes.md) | [A2](./2-Builder/A2-Nettoyer-et-analyser.md) | [A3](./3-Expert/A3-Tableau-de-bord-vivant.md) |
-| B. Agent knowledge | [B1](./1-Decouverte/B1-Le-Gardien-des-regles.md) | [B2](./2-Builder/B2-La-Plume-de-la-Maison.md) | [B3](./3-Expert/B3-Agent-de-connaissance.md) |
-| C. Workflow | [C1](./1-Decouverte/C1-Cartographier-le-processus.md) | [C2](./2-Builder/C2-Le-Grand-Tri.md) | [C3](./3-Expert/C3-Le-Workflow-de-bout-en-bout.md) |
+| A. Data analysis | [A1](./1-Discovery/A1-The-Sales-Mystery.md) | [A2](./2-Builder/A2-Clean-and-Analyze.md) | [A3](./3-Expert/A3-The-Living-Dashboard.md) |
+| B. Knowledge agent | [B1](./1-Discovery/B1-The-Rule-Keeper.md) | [B2](./2-Builder/B2-The-Maison-Voice.md) | [B3](./3-Expert/B3-The-Knowledge-Agent.md) |
+| C. Workflow | [C1](./1-Discovery/C1-Map-the-Process.md) | [C2](./2-Builder/C2-The-Great-Sort.md) | [C3](./3-Expert/C3-The-End-to-End-Workflow.md) |

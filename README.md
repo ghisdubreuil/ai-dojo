@@ -1,33 +1,35 @@
-# 🏰 Dojo Copilot Métier — Maison Orélia
+# 🏰 Copilot Business Dojo — Maison Orélia
 
-Un dojo GitHub Copilot pour **non-techniques**, avec des cas d'usage métier réalistes. Inspiré du format « choose-your-own-adventure » de [Copilot Adventures](https://github.com/microsoft/copilotadventures), appliqué à la data, aux agents de connaissance et à la transformation de workflows.
+A GitHub Copilot dojo for **non-technical people**, built around realistic business use cases. Each participant picks a **track** and a **level**, and can move up or down at any time.
 
-> Maison Orélia est une maison de luxe **fictive**. Toutes les données sont synthétiques.
+> Maison Orélia is a **fictional** luxury house. All data is synthetic.
 
-## L'organisation fictive
-**3 divisions** (Fashion · Fragrance & Beauty · Watches & Fine Jewelry) × **6 régions** (UK · US · APAC · Japan · Europe · Swiss & Others). Détail dans [`docs/organisation.md`](./docs/organisation.md).
+## Start here
+1. Read the [15-minute introduction to GitHub Copilot](./docs/00-getting-started-with-copilot.md).
+2. Click **Code → Codespaces → Create codespace** (everything is preinstalled).
+3. Do the [warm-up adventure](./Adventures/StartHere.md).
+4. Pick a track and a level.
 
-## Comment ça marche
-1. Cliquez sur **Code → Codespaces → Create codespace**. Tout est préinstallé.
-2. Commencez par l'[aventure d'échauffement](./Adventures/StartHere.md) (15 min).
-3. Choisissez une **piste** et un **niveau**. Vous pouvez changer à tout moment.
+## The fictional organisation
+**3 divisions** (Fashion · Fragrance & Beauty · Watches & Fine Jewelry) × **6 regions** (UK · US · APAC · Japan · Europe · Swiss & Others). Details in [`docs/organisation.md`](./docs/organisation.md).
 
-| Piste | 🟢 Découverte (sans code) | 🟡 Builder (Copilot écrit, vous relisez) | 🔴 Expert (agents, tests, GitHub) |
+## Adventures
+| Track | 🟢 Discovery (no code) | 🟡 Builder (Copilot writes, you review) | 🔴 Expert (agents, tests, GitHub) |
 |---|---|---|---|
-| **A. Data analyse** | [Le mystère des ventes](./Adventures/1-Decouverte/A1-Le-Mystere-des-ventes.md) | [Nettoyer et analyser](./Adventures/2-Builder/A2-Nettoyer-et-analyser.md) | [Le tableau de bord vivant](./Adventures/3-Expert/A3-Tableau-de-bord-vivant.md) |
-| **B. Agent knowledge** | [Le gardien des règles](./Adventures/1-Decouverte/B1-Le-Gardien-des-regles.md) | [La plume de la Maison](./Adventures/2-Builder/B2-La-Plume-de-la-Maison.md) | [L'agent de connaissance](./Adventures/3-Expert/B3-Agent-de-connaissance.md) |
-| **C. Workflow** | [Cartographier le processus](./Adventures/1-Decouverte/C1-Cartographier-le-processus.md) | [Le grand tri](./Adventures/2-Builder/C2-Le-Grand-Tri.md) | [Le workflow de bout en bout](./Adventures/3-Expert/C3-Le-Workflow-de-bout-en-bout.md) |
+| **A. Data analysis** | [The sales mystery](./Adventures/1-Discovery/A1-The-Sales-Mystery.md) | [Clean and analyze](./Adventures/2-Builder/A2-Clean-and-Analyze.md) | [The living dashboard](./Adventures/3-Expert/A3-The-Living-Dashboard.md) |
+| **B. Knowledge agent** | [The rule keeper](./Adventures/1-Discovery/B1-The-Rule-Keeper.md) | [The Maison voice](./Adventures/2-Builder/B2-The-Maison-Voice.md) | [The knowledge agent](./Adventures/3-Expert/B3-The-Knowledge-Agent.md) |
+| **C. Workflow** | [Map the process](./Adventures/1-Discovery/C1-Map-the-Process.md) | [The great sort](./Adventures/2-Builder/C2-The-Great-Sort.md) | [The end-to-end workflow](./Adventures/3-Expert/C3-The-End-to-End-Workflow.md) |
 
-Chaque piste suit le même fil : **comprendre → construire → industrialiser**.
+Each track follows the same thread: **understand → build → industrialise**.
 
-## Contenu
-- `Adventures/` : les 9 aventures + l'échauffement
-- `data/` : ventes (12 boutiques), produits (23 références, 3 divisions), boutiques (6 régions), tickets SAV (fictifs, avec anomalies volontaires)
-- `docs/` : base de connaissance et processus actuel (avec versions contradictoires volontaires)
-- `mon-travail/` : votre dossier de travail
-- [`FACILITATEUR.md`](./FACILITATEUR.md) : déroulé d'un dojo de 3 h, posture, débrief
+## Contents
+- `docs/`: Copilot introduction, organisation, current process, knowledge base (with deliberately contradictory versions)
+- `Adventures/`: the 9 adventures + the warm-up
+- `data/`: sales (12 stores), products (23 items, 3 divisions), stores (6 regions), support tickets — fictional, with deliberate anomalies
+- `my-work/`: your working folder
+- [`FACILITATOR.md`](./FACILITATOR.md): 3-hour agenda, posture, debrief
 
-## Principes pédagogiques
-- On apprend en **vérifiant** Copilot, pas en lui faisant confiance.
-- Chaque aventure a des **critères de réussite** observables.
-- Le métier d'abord, la technique ensuite.
+## Teaching principles
+- We learn by **verifying** Copilot, not by trusting it.
+- Every adventure has observable **success criteria**.
+- Business first, technology second.

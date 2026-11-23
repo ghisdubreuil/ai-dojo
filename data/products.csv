@@ -1,0 +1,24 @@
+sku,name,division,category,price_eur,cost_eur,launch_date
+SKU001,Aubrac Bag,Fashion,Leather goods,3200,923.85,2022-05-01
+SKU002,Celeste Bag,Fashion,Leather goods,2450,543.0,2023-02-01
+SKU003,Lune Small Leather Goods,Fashion,Leather goods,690,203.58,2022-07-01
+SKU004,Orelia Belt,Fashion,Leather goods,480,88.99,2022-04-01
+SKU005,House Tweed Jacket,Fashion,Ready-to-wear,3900,856.25,2022-09-01
+SKU006,Opal Silk Dress,Fashion,Ready-to-wear,2800,598.65,2025-04-01
+SKU007,Pearl Shirt,Fashion,Ready-to-wear,890,228.17,2024-01-01
+SKU008,Atelier Silk Scarf,Fashion,Accessories,420,129.78,2023-07-01
+SKU009,Horizon Sunglasses,Fashion,Accessories,520,123.68,2023-04-01
+SKU010,Brume Eau de Parfum,Fragrance & Beauty,Fragrance,145,49.7,2024-02-01
+SKU011,Black Amber Eau de Parfum,Fragrance & Beauty,Fragrance,165,32.3,2022-06-01
+SKU012,Solar Extract,Fragrance & Beauty,Fragrance,290,93.98,2024-01-01
+SKU013,Radiance Serum,Fragrance & Beauty,Skincare,120,36.49,2022-07-01
+SKU014,Opaline Night Cream,Fragrance & Beauty,Skincare,185,35.78,2024-06-01
+SKU015,Pearl Mask,Fragrance & Beauty,Skincare,95,26.42,2022-01-01
+SKU016,Velvet Red Lipstick,Fragrance & Beauty,Makeup,48,14.04,2024-02-01
+SKU017,Aurora Palette,Fragrance & Beauty,Makeup,78,25.38,2022-07-01
+SKU018,Zenith Automatic Watch,Watches & Fine Jewelry,Watches,6900,1568.06,2024-03-01
+SKU019,Pearl Quartz Watch,Watches & Fine Jewelry,Watches,4200,1020.31,2023-05-01
+SKU020,Chronos Limited Edition Watch,Watches & Fine Jewelry,Watches,14500,4339.99,2022-03-01
+SKU021,Star Necklace,Watches & Fine Jewelry,Fine jewelry,12500,3385.05,2023-03-01
+SKU022,Opal Ring,Watches & Fine Jewelry,Fine jewelry,8900,2301.4,2024-09-01
+SKU023,Comet Earrings,Watches & Fine Jewelry,Fine jewelry,5600,1217.07,2024-01-01
