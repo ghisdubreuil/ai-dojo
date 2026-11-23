@@ -7,6 +7,7 @@ Chaque matin, le coordinateur classe 240 tickets à la main. Vous allez automati
 
 ## Mission
 Créez `mon-travail/trier_tickets.py` qui lit `data/tickets_sav.csv` et ajoute :
+- une **région** reprise de `region_client` et une **division** déduite du produit cité ;
 - une **catégorie** : retour, echange, reparation, livraison, casse, facturation, info, suivi ;
 - une **priorité** : `haute` (cadeau, événement, « urgent », casse, double facturation), `normale` sinon ;
 - un **score de confiance** et un indicateur `a_verifier` quand le message est ambigu.

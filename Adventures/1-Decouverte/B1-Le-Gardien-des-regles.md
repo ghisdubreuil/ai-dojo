@@ -10,7 +10,8 @@ En donnant les fichiers à Copilot (`#file:` ou `#folder:docs/base-connaissance`
 1. Un client veut retourner un sac acheté il y a 20 jours. Est-ce possible ?
 2. Un client veut retourner un parfum ouvert. Que répondez-vous ?
 3. Un flacon arrive cassé. Quel est le délai pour envoyer la photo ?
-4. **Quelle politique est en vigueur, et comment le savez-vous ?**
+4. Un client à Tokyo veut rendre une montre portée une fois, 20 jours après achat. Que répondez-vous ?
+5. **Quelle politique est en vigueur, et comment le savez-vous ?**
 
 ## Hints Copilot
 - `Réponds uniquement à partir des documents fournis. Cite le fichier utilisé pour chaque affirmation.`
@@ -20,6 +21,7 @@ En donnant les fichiers à Copilot (`#file:` ou `#folder:docs/base-connaissance`
 ## Critères de réussite
 - Les réponses s'appuient sur la **v3** et citent la source.
 - Vous avez fait remarquer la contradiction v2/v3.
+- Pour la montre à Tokyo, Copilot a combiné la règle **générale** (30 j) et l'exception **Watches & Fine Jewelry** (14 j, pièce non portée) : vous avez vérifié laquelle l'emporte.
 - Vous avez testé une question **hors périmètre** (ex : « Quel est le salaire du directeur ? ») pour voir si Copilot invente ou avoue ne pas savoir.
 
 ## Bonus

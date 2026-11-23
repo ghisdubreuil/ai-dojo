@@ -8,7 +8,8 @@ Les réponses clients varient d'un conseiller à l'autre. Vous allez configurer 
 ## Mission
 1. Créez un **prompt file** `.github/prompts/repondre-client.prompt.md` qui :
    - impose le ton de `docs/base-connaissance/guide-ton-de-marque.md`,
-   - ne s'appuie que sur la v3 de la politique,
+   - ne s'appuie que sur la v3 de la politique (avec exceptions par région et par division),
+   - adapte le ton à la région du client (`region_client`),
    - cite la règle utilisée,
    - signale quand il faut **escalader**.
 2. Utilisez-le sur 5 tickets de `data/tickets_sav.csv` (choisissez des cas variés : retour, casse, livraison urgente, facturation, info).

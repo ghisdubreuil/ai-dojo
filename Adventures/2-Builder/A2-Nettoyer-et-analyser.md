@@ -3,14 +3,14 @@
 **Durée : 45–60 min · Mode Copilot : Ask puis Edit · Python (Copilot écrit, vous relisez)**
 
 ## Contexte
-La direction veut un chiffre d'affaires fiable par boutique et par mois. Mais `data/ventes.csv` est sale. Vous allez produire un **script reproductible** plutôt qu'un calcul fait une fois à la main.
+La direction veut un chiffre d'affaires fiable par boutique, par région et par division, et par mois. Mais `data/ventes.csv` est sale. Vous allez produire un **script reproductible** plutôt qu'un calcul fait une fois à la main.
 
 ## Mission
 Créez `mon-travail/analyse_ventes.py` qui :
 1. Charge les trois CSV.
 2. **Nettoie** : doublons, quantités négatives, SKU inconnus, dates au format `JJ/MM/AAAA`, canal manquant (à marquer « inconnu »).
 3. Affiche un **rapport de qualité** : combien de lignes retirées / corrigées, pourquoi.
-4. Calcule le CA net par boutique et par mois.
+4. Calcule le CA net par boutique, par région et par division, et par mois.
 5. Produit un graphique `mon-travail/ca_par_boutique.png` mettant en évidence Tokyo en mars 2026.
 
 ## Hints Copilot

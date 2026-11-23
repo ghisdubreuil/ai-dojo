@@ -4,6 +4,9 @@ Un dojo GitHub Copilot pour **non-techniques**, avec des cas d'usage métier ré
 
 > Maison Orélia est une maison de luxe **fictive**. Toutes les données sont synthétiques.
 
+## L'organisation fictive
+**3 divisions** (Fashion · Fragrance & Beauty · Watches & Fine Jewelry) × **6 régions** (UK · US · APAC · Japan · Europe · Swiss & Others). Détail dans [`docs/organisation.md`](./docs/organisation.md).
+
 ## Comment ça marche
 1. Cliquez sur **Code → Codespaces → Create codespace**. Tout est préinstallé.
 2. Commencez par l'[aventure d'échauffement](./Adventures/StartHere.md) (15 min).
@@ -19,7 +22,7 @@ Chaque piste suit le même fil : **comprendre → construire → industrialiser*
 
 ## Contenu
 - `Adventures/` : les 9 aventures + l'échauffement
-- `data/` : ventes, produits, boutiques, tickets SAV (fictifs, avec anomalies volontaires)
+- `data/` : ventes (12 boutiques), produits (23 références, 3 divisions), boutiques (6 régions), tickets SAV (fictifs, avec anomalies volontaires)
 - `docs/` : base de connaissance et processus actuel (avec versions contradictoires volontaires)
 - `mon-travail/` : votre dossier de travail
 - [`FACILITATEUR.md`](./FACILITATEUR.md) : déroulé d'un dojo de 3 h, posture, débrief

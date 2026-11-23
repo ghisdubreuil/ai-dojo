@@ -8,7 +8,7 @@ Le directeur retail veut un tableau de bord interactif qu'il consulte chaque lun
 ## Mission
 Avec **Agent mode**, construisez une application (Streamlit conseillée) qui :
 1. Réutilise votre pipeline de nettoyage (A2) comme module testé.
-2. Affiche CA, panier moyen, marge par catégorie, filtres par région/boutique/période.
+2. Affiche CA, panier moyen, marge par division et par catégorie, filtres par région (6)/division (3)/boutique/période, et une vue matrice division × région.
 3. Montre une section **« Qualité des données »** (lignes écartées, raisons).
 4. Détecte et explique les **anomalies** (ex : Tokyo mars 2026).
 5. Est couverte par au moins 5 tests (`pytest`).

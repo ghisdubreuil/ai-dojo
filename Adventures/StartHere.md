@@ -7,10 +7,10 @@ Bienvenue chez **Maison Orélia** (maison de luxe fictive). Vous êtes nouvelle 
 
 ## Étapes
 1. Ouvrez le panneau **Copilot Chat** (icône de bulle dans la barre latérale).
-2. Dans `data/`, ouvrez `produits.csv`. Demandez dans le chat :
+2. Lisez `docs/organisation.md` (2 min). Puis, dans `data/`, ouvrez `produits.csv`. Demandez dans le chat :
    > `Explique-moi ce fichier comme si j'étais nouveau dans l'entreprise.`
 3. Demandez ensuite :
-   > `Quelle est la catégorie de produits avec le prix moyen le plus élevé ? Montre-moi comment tu le calcules.`
+   > `Quelle est la division avec le prix moyen le plus élevé ? Montre-moi comment tu le calcules.`
 4. Corrigez-le : posez une question volontairement ambiguë (« les meilleurs produits ») et observez comment il demande des précisions ou fait des hypothèses.
 
 ## Ce qu'il faut retenir

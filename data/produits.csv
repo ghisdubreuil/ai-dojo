@@ -1,17 +1,24 @@
-sku,nom,categorie,prix_eur,cout_eur,date_lancement
-SKU001,Sac Aubrac,Maroquinerie,3200,923.85,2022-05-01
-SKU002,Sac Céleste,Maroquinerie,2450,543.0,2023-02-01
-SKU003,Petite maroquinerie Lune,Maroquinerie,690,203.58,2022-07-01
-SKU004,Ceinture Orélia,Maroquinerie,480,88.99,2022-04-01
-SKU005,Eau de parfum Brume,Parfum,145,31.84,2022-09-01
-SKU006,Eau de parfum Ambre Noir,Parfum,165,35.28,2025-04-01
-SKU007,Extrait Solaire,Parfum,290,74.35,2024-01-01
-SKU008,Sérum Éclat,Soin,120,37.08,2023-07-01
-SKU009,Crème Nuit Opaline,Soin,185,44.0,2023-04-01
-SKU010,Masque Perle,Soin,95,32.56,2024-02-01
-SKU011,Veste Tweed Maison,Prêt-à-porter,3900,763.49,2022-06-01
-SKU012,Robe Soie Opale,Prêt-à-porter,2800,907.41,2024-01-01
-SKU013,Chemise Nacre,Prêt-à-porter,890,270.61,2022-07-01
-SKU014,Foulard Soie Atelier,Accessoires,420,81.23,2024-06-01
-SKU015,Lunettes Horizon,Accessoires,520,144.64,2022-01-01
-SKU016,Bijou Étoile,Accessoires,1250,365.52,2024-02-01
+sku,nom,division,categorie,prix_eur,cout_eur,date_lancement
+SKU001,Sac Aubrac,Fashion,Maroquinerie,3200,923.85,2022-05-01
+SKU002,Sac Céleste,Fashion,Maroquinerie,2450,543.0,2023-02-01
+SKU003,Petite maroquinerie Lune,Fashion,Maroquinerie,690,203.58,2022-07-01
+SKU004,Ceinture Orélia,Fashion,Maroquinerie,480,88.99,2022-04-01
+SKU005,Veste Tweed Maison,Fashion,Prêt-à-porter,3900,856.25,2022-09-01
+SKU006,Robe Soie Opale,Fashion,Prêt-à-porter,2800,598.65,2025-04-01
+SKU007,Chemise Nacre,Fashion,Prêt-à-porter,890,228.17,2024-01-01
+SKU008,Foulard Soie Atelier,Fashion,Accessoires,420,129.78,2023-07-01
+SKU009,Lunettes Horizon,Fashion,Accessoires,520,123.68,2023-04-01
+SKU010,Eau de parfum Brume,Fragrance & Beauty,Parfum,145,49.7,2024-02-01
+SKU011,Eau de parfum Ambre Noir,Fragrance & Beauty,Parfum,165,32.3,2022-06-01
+SKU012,Extrait Solaire,Fragrance & Beauty,Parfum,290,93.98,2024-01-01
+SKU013,Sérum Éclat,Fragrance & Beauty,Soin,120,36.49,2022-07-01
+SKU014,Crème Nuit Opaline,Fragrance & Beauty,Soin,185,35.78,2024-06-01
+SKU015,Masque Perle,Fragrance & Beauty,Soin,95,26.42,2022-01-01
+SKU016,Rouge Velours,Fragrance & Beauty,Maquillage,48,14.04,2024-02-01
+SKU017,Palette Aurore,Fragrance & Beauty,Maquillage,78,25.38,2022-07-01
+SKU018,Montre Zénith Automatique,Watches & Fine Jewelry,Montres,6900,1568.06,2024-03-01
+SKU019,Montre Perle Quartz,Watches & Fine Jewelry,Montres,4200,1020.31,2023-05-01
+SKU020,Montre Chronos Édition Limitée,Watches & Fine Jewelry,Montres,14500,4339.99,2022-03-01
+SKU021,Collier Étoile,Watches & Fine Jewelry,Haute joaillerie,12500,3385.05,2023-03-01
+SKU022,Bague Opale,Watches & Fine Jewelry,Haute joaillerie,8900,2301.4,2024-09-01
+SKU023,Boucles Comète,Watches & Fine Jewelry,Haute joaillerie,5600,1217.07,2024-01-01

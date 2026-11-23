@@ -9,7 +9,8 @@ Vous avez cartographié (C1), trié (C2), et construit une base de règles (B2/B
 Concevez et implémentez un pipeline `mon-travail/pipeline_sav.py` :
 1. **Entrée** : `tickets_sav.csv`.
 2. **Tri** : catégorie et priorité (C2).
-3. **Enrichissement** : règle applicable (base de connaissance) et décision `repondre` / `escalader`.
+3. **Routage** : équipe régionale (6) et atelier produit concerné (maroquinerie, horlogerie, joaillerie) selon la division.
+3bis. **Enrichissement** : règle applicable (y compris exceptions régionales) (base de connaissance) et décision `repondre` / `escalader`.
 4. **Brouillon** de réponse dans le ton de la Maison.
 5. **Sortie** : un CSV de travail pour les conseillers + un rapport hebdomadaire (volumes, délais cibles, % escaladés).
 6. Aucune réponse n'est « envoyée » : **validation humaine** obligatoire (champ `statut = a_valider`).
