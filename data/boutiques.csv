@@ -1,0 +1,9 @@
+boutique_id,ville,pays,region,surface_m2
+B01,Paris Faubourg,France,EMEA,420
+B02,Londres Mayfair,Royaume-Uni,EMEA,380
+B03,Lyon Presqu'île,France,EMEA,210
+B04,Tokyo Ginza,Japon,APAC,450
+B05,New York Madison,Etats-Unis,AMER,500
+B06,Dubai Mall,Emirats,EMEA,330
+B07,Singapour Orchard,Singapour,APAC,290
+B08,Los Angeles Rodeo,Etats-Unis,AMER,310

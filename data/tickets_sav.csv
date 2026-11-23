@@ -1,0 +1,241 @@
+ticket_id,date_reception,canal,message
+T0001,2026-09-04,chat,Question: Extrait Solaire est-il compatible avec un voyage en avion (cabine) ?
+T0002,2026-09-19,telephone,"Le parfum Bijou Étoile fuit dans la boîte, flacon cassé à l'arrivée."
+T0003,2026-09-05,reseaux_sociaux,"Le parfum Masque Perle fuit dans la boîte, flacon cassé à l'arrivée."
+T0004,2026-09-13,telephone,"Je voudrais le remboursement de Foulard Soie Atelier, acheté il y a 5 semaines en boutique à Paris."
+T0005,2026-09-30,email,Vous m'avez facturée deux fois pour Sérum Éclat. Merci de rembourser.
+T0006,2026-09-11,chat,"Erreur de taille sur Lunettes Horizon, je voudrais échanger contre la taille supérieure."
+T0007,2026-09-12,email,"Livraison de Sac Aubrac en retard de 10 jours, toujours rien !!"
+T0008,2026-09-04,email,"Le parfum Chemise Nacre fuit dans la boîte, flacon cassé à l'arrivée."
+T0009,2026-09-21,email,"Bonjour, où en est ma réparation de Foulard Soie Atelier déposée à la boutique de Dubai ?"
+T0010,2026-09-01,email,"Je souhaite retourner Sac Aubrac, reçu hier, ne convient pas. Achat en ligne."
+T0011,2026-09-20,telephone,"Mon sac Sac Céleste a une anse abîmée après 3 mois, je voudrais un échange."
+T0012,2026-09-09,chat,"Livraison de Chemise Nacre en retard de 10 jours, toujours rien !!"
+T0013,2026-09-14,chat,Vous m'avez facturée deux fois pour Ceinture Orélia. Merci de rembourser.
+T0014,2026-09-12,telephone,"Livraison de Sac Aubrac en retard de 10 jours, toujours rien !!"
+T0015,2026-09-03,email,"Je voudrais le remboursement de Crème Nuit Opaline, acheté il y a 5 semaines en boutique à Los."
+T0016,2026-09-19,chat,"Livraison de Sérum Éclat en retard de 10 jours, toujours rien !!"
+T0017,2026-09-26,chat,"Livraison de Crème Nuit Opaline en retard de 10 jours, toujours rien !!"
+T0018,2026-09-18,telephone,"Livraison de Veste Tweed Maison en retard de 10 jours, toujours rien !!"
+T0019,2026-09-20,chat,"URGENT cadeau mariage samedi, Veste Tweed Maison non reçu, commande passée il y a 3 jours"
+T0020,2026-09-03,telephone,"Erreur de taille sur Veste Tweed Maison, je voudrais échanger contre la taille supérieure."
+T0021,2026-09-13,email,"Erreur de taille sur Robe Soie Opale, je voudrais échanger contre la taille supérieure."
+T0022,2026-09-26,email,"Erreur de taille sur Sac Aubrac, je voudrais échanger contre la taille supérieure."
+T0023,2026-09-22,telephone,Question: Crème Nuit Opaline est-il compatible avec un voyage en avion (cabine) ?
+T0024,2026-09-04,reseaux_sociaux,Question: Masque Perle est-il compatible avec un voyage en avion (cabine) ?
+T0025,2026-09-25,email,"Livraison de Foulard Soie Atelier en retard de 10 jours, toujours rien !!"
+T0026,2026-09-29,telephone,"Livraison de Eau de parfum Brume en retard de 10 jours, toujours rien !!"
+T0027,2026-09-28,email,Question: Eau de parfum Ambre Noir est-il compatible avec un voyage en avion (cabine) ?
+T0028,2026-09-22,reseaux_sociaux,"Bonjour, où en est ma réparation de Extrait Solaire déposée à la boutique de Paris ?"
+T0029,2026-09-05,email,"Livraison de Robe Soie Opale en retard de 10 jours, toujours rien !!"
+T0030,2026-09-10,email,"Livraison de Sac Aubrac en retard de 10 jours, toujours rien !!"
+T0031,2026-09-18,chat,"URGENT cadeau mariage samedi, Sac Céleste non reçu, commande passée il y a 3 jours"
+T0032,2026-09-09,chat,"Je voudrais le remboursement de Sérum Éclat, acheté il y a 5 semaines en boutique à Los."
+T0033,2026-09-29,reseaux_sociaux,"Mon sac Lunettes Horizon a une anse abîmée après 3 mois, je voudrais un échange."
+T0034,2026-09-03,chat,"Mon sac Foulard Soie Atelier a une anse abîmée après 3 mois, je voudrais un échange."
+T0035,2026-09-21,email,"Le parfum Ceinture Orélia fuit dans la boîte, flacon cassé à l'arrivée."
+T0036,2026-09-14,reseaux_sociaux,Vous m'avez facturée deux fois pour Petite maroquinerie Lune. Merci de rembourser.
+T0037,2026-09-30,chat,"Erreur de taille sur Foulard Soie Atelier, je voudrais échanger contre la taille supérieure."
+T0038,2026-09-06,email,"Bonjour, où en est ma réparation de Eau de parfum Brume déposée à la boutique de Tokyo ?"
+T0039,2026-09-10,email,Question: Masque Perle est-il compatible avec un voyage en avion (cabine) ?
+T0040,2026-09-15,telephone,"Je souhaite retourner Petite maroquinerie Lune, reçu hier, ne convient pas. Achat en ligne."
+T0041,2026-09-30,reseaux_sociaux,"Bonjour, où en est ma réparation de Robe Soie Opale déposée à la boutique de Los ?"
+T0042,2026-09-15,email,"Je souhaite retourner Petite maroquinerie Lune, reçu hier, ne convient pas. Achat en ligne."
+T0043,2026-09-21,reseaux_sociaux,"URGENT cadeau mariage samedi, Crème Nuit Opaline non reçu, commande passée il y a 3 jours"
+T0044,2026-09-30,email,"Je souhaite retourner Robe Soie Opale, reçu hier, ne convient pas. Achat en ligne."
+T0045,2026-09-11,email,"Je souhaite retourner Crème Nuit Opaline, reçu hier, ne convient pas. Achat en ligne."
+T0046,2026-09-05,email,"Je souhaite retourner Sérum Éclat, reçu hier, ne convient pas. Achat en ligne."
+T0047,2026-09-26,email,"Erreur de taille sur Bijou Étoile, je voudrais échanger contre la taille supérieure."
+T0048,2026-09-30,email,"URGENT cadeau mariage samedi, Ceinture Orélia non reçu, commande passée il y a 3 jours"
+T0049,2026-09-02,chat,"Je souhaite retourner Sac Aubrac, reçu hier, ne convient pas. Achat en ligne."
+T0050,2026-09-15,chat,"Erreur de taille sur Sac Céleste, je voudrais échanger contre la taille supérieure."
+T0051,2026-09-29,email,"Je souhaite retourner Foulard Soie Atelier, reçu hier, ne convient pas. Achat en ligne."
+T0052,2026-09-02,email,"Erreur de taille sur Masque Perle, je voudrais échanger contre la taille supérieure."
+T0053,2026-09-10,email,Question: Masque Perle est-il compatible avec un voyage en avion (cabine) ?
+T0054,2026-09-16,email,"Livraison de Eau de parfum Ambre Noir en retard de 10 jours, toujours rien !!"
+T0055,2026-09-04,chat,"Livraison de Petite maroquinerie Lune en retard de 10 jours, toujours rien !!"
+T0056,2026-09-06,reseaux_sociaux,"Bonjour, où en est ma réparation de Bijou Étoile déposée à la boutique de New ?"
+T0057,2026-09-26,email,Question: Sérum Éclat est-il compatible avec un voyage en avion (cabine) ?
+T0058,2026-09-16,email,"URGENT cadeau mariage samedi, Veste Tweed Maison non reçu, commande passée il y a 3 jours"
+T0059,2026-09-25,email,"URGENT cadeau mariage samedi, Ceinture Orélia non reçu, commande passée il y a 3 jours"
+T0060,2026-09-19,telephone,Vous m'avez facturée deux fois pour Robe Soie Opale. Merci de rembourser.
+T0061,2026-09-12,telephone,"Le parfum Crème Nuit Opaline fuit dans la boîte, flacon cassé à l'arrivée."
+T0062,2026-09-17,chat,"Le parfum Petite maroquinerie Lune fuit dans la boîte, flacon cassé à l'arrivée."
+T0063,2026-09-13,reseaux_sociaux,"Erreur de taille sur Crème Nuit Opaline, je voudrais échanger contre la taille supérieure."
+T0064,2026-09-18,telephone,"Je voudrais le remboursement de Foulard Soie Atelier, acheté il y a 5 semaines en boutique à Lyon."
+T0065,2026-09-10,reseaux_sociaux,"URGENT cadeau mariage samedi, Eau de parfum Ambre Noir non reçu, commande passée il y a 3 jours"
+T0066,2026-09-16,email,"Erreur de taille sur Sac Céleste, je voudrais échanger contre la taille supérieure."
+T0067,2026-09-12,reseaux_sociaux,Vous m'avez facturée deux fois pour Lunettes Horizon. Merci de rembourser.
+T0068,2026-09-11,reseaux_sociaux,"Le parfum Petite maroquinerie Lune fuit dans la boîte, flacon cassé à l'arrivée."
+T0069,2026-09-14,chat,"Erreur de taille sur Extrait Solaire, je voudrais échanger contre la taille supérieure."
+T0070,2026-09-07,reseaux_sociaux,"Livraison de Ceinture Orélia en retard de 10 jours, toujours rien !!"
+T0071,2026-09-05,telephone,"Mon sac Foulard Soie Atelier a une anse abîmée après 3 mois, je voudrais un échange."
+T0072,2026-09-30,email,"URGENT cadeau mariage samedi, Crème Nuit Opaline non reçu, commande passée il y a 3 jours"
+T0073,2026-09-05,email,"Livraison de Bijou Étoile en retard de 10 jours, toujours rien !!"
+T0074,2026-09-13,telephone,"Je voudrais le remboursement de Bijou Étoile, acheté il y a 5 semaines en boutique à Los."
+T0075,2026-09-04,telephone,"Je voudrais le remboursement de Petite maroquinerie Lune, acheté il y a 5 semaines en boutique à New."
+T0076,2026-09-22,email,Question: Sérum Éclat est-il compatible avec un voyage en avion (cabine) ?
+T0077,2026-09-20,telephone,"Erreur de taille sur Extrait Solaire, je voudrais échanger contre la taille supérieure."
+T0078,2026-09-10,email,"Mon sac Petite maroquinerie Lune a une anse abîmée après 3 mois, je voudrais un échange."
+T0079,2026-09-22,reseaux_sociaux,"Je souhaite retourner Robe Soie Opale, reçu hier, ne convient pas. Achat en ligne."
+T0080,2026-09-19,email,Vous m'avez facturée deux fois pour Petite maroquinerie Lune. Merci de rembourser.
+T0081,2026-09-23,telephone,"Je voudrais le remboursement de Robe Soie Opale, acheté il y a 5 semaines en boutique à Singapour."
+T0082,2026-09-02,telephone,"Je souhaite retourner Crème Nuit Opaline, reçu hier, ne convient pas. Achat en ligne."
+T0083,2026-09-03,telephone,Vous m'avez facturée deux fois pour Masque Perle. Merci de rembourser.
+T0084,2026-09-30,chat,"Je souhaite retourner Eau de parfum Brume, reçu hier, ne convient pas. Achat en ligne."
+T0085,2026-09-28,email,"Mon sac Veste Tweed Maison a une anse abîmée après 3 mois, je voudrais un échange."
+T0086,2026-09-27,email,"Livraison de Sérum Éclat en retard de 10 jours, toujours rien !!"
+T0087,2026-09-19,reseaux_sociaux,Vous m'avez facturée deux fois pour Chemise Nacre. Merci de rembourser.
+T0088,2026-09-11,chat,"Le parfum Sac Céleste fuit dans la boîte, flacon cassé à l'arrivée."
+T0089,2026-09-09,email,"Je souhaite retourner Foulard Soie Atelier, reçu hier, ne convient pas. Achat en ligne."
+T0090,2026-09-03,chat,"Livraison de Foulard Soie Atelier en retard de 10 jours, toujours rien !!"
+T0091,2026-09-19,telephone,Vous m'avez facturée deux fois pour Crème Nuit Opaline. Merci de rembourser.
+T0092,2026-09-12,reseaux_sociaux,"URGENT cadeau mariage samedi, Crème Nuit Opaline non reçu, commande passée il y a 3 jours"
+T0093,2026-09-23,telephone,"Livraison de Lunettes Horizon en retard de 10 jours, toujours rien !!"
+T0094,2026-09-12,email,Question: Sac Aubrac est-il compatible avec un voyage en avion (cabine) ?
+T0095,2026-09-02,reseaux_sociaux,Vous m'avez facturée deux fois pour Sac Céleste. Merci de rembourser.
+T0096,2026-09-08,reseaux_sociaux,Question: Bijou Étoile est-il compatible avec un voyage en avion (cabine) ?
+T0097,2026-09-21,email,"Livraison de Foulard Soie Atelier en retard de 10 jours, toujours rien !!"
+T0098,2026-09-21,email,"Je voudrais le remboursement de Foulard Soie Atelier, acheté il y a 5 semaines en boutique à Tokyo."
+T0099,2026-09-02,telephone,"Erreur de taille sur Crème Nuit Opaline, je voudrais échanger contre la taille supérieure."
+T0100,2026-09-25,telephone,"Erreur de taille sur Eau de parfum Brume, je voudrais échanger contre la taille supérieure."
+T0101,2026-09-30,reseaux_sociaux,Vous m'avez facturée deux fois pour Petite maroquinerie Lune. Merci de rembourser.
+T0102,2026-09-30,chat,Question: Eau de parfum Ambre Noir est-il compatible avec un voyage en avion (cabine) ?
+T0103,2026-09-24,telephone,"Je souhaite retourner Sac Aubrac, reçu hier, ne convient pas. Achat en ligne."
+T0104,2026-09-30,email,Question: Lunettes Horizon est-il compatible avec un voyage en avion (cabine) ?
+T0105,2026-09-15,chat,"Bonjour, où en est ma réparation de Sac Céleste déposée à la boutique de New ?"
+T0106,2026-09-29,chat,Question: Petite maroquinerie Lune est-il compatible avec un voyage en avion (cabine) ?
+T0107,2026-09-07,email,"Mon sac Crème Nuit Opaline a une anse abîmée après 3 mois, je voudrais un échange."
+T0108,2026-09-16,email,"Livraison de Lunettes Horizon en retard de 10 jours, toujours rien !!"
+T0109,2026-09-10,reseaux_sociaux,Vous m'avez facturée deux fois pour Lunettes Horizon. Merci de rembourser.
+T0110,2026-09-07,chat,Vous m'avez facturée deux fois pour Crème Nuit Opaline. Merci de rembourser.
+T0111,2026-09-05,chat,"Livraison de Crème Nuit Opaline en retard de 10 jours, toujours rien !!"
+T0112,2026-09-09,email,Question: Petite maroquinerie Lune est-il compatible avec un voyage en avion (cabine) ?
+T0113,2026-09-24,email,"Je voudrais le remboursement de Sac Céleste, acheté il y a 5 semaines en boutique à Paris."
+T0114,2026-09-07,email,"URGENT cadeau mariage samedi, Robe Soie Opale non reçu, commande passée il y a 3 jours"
+T0115,2026-09-02,email,"Bonjour, où en est ma réparation de Lunettes Horizon déposée à la boutique de New ?"
+T0116,2026-09-11,email,Question: Lunettes Horizon est-il compatible avec un voyage en avion (cabine) ?
+T0117,2026-09-21,reseaux_sociaux,"Mon sac Bijou Étoile a une anse abîmée après 3 mois, je voudrais un échange."
+T0118,2026-09-12,chat,"Livraison de Masque Perle en retard de 10 jours, toujours rien !!"
+T0119,2026-09-27,telephone,"Livraison de Eau de parfum Brume en retard de 10 jours, toujours rien !!"
+T0120,2026-09-27,email,Vous m'avez facturée deux fois pour Petite maroquinerie Lune. Merci de rembourser.
+T0121,2026-09-19,email,"Livraison de Ceinture Orélia en retard de 10 jours, toujours rien !!"
+T0122,2026-09-09,telephone,"Le parfum Extrait Solaire fuit dans la boîte, flacon cassé à l'arrivée."
+T0123,2026-09-21,reseaux_sociaux,Vous m'avez facturée deux fois pour Robe Soie Opale. Merci de rembourser.
+T0124,2026-09-15,telephone,"Le parfum Chemise Nacre fuit dans la boîte, flacon cassé à l'arrivée."
+T0125,2026-09-11,email,"Je voudrais le remboursement de Masque Perle, acheté il y a 5 semaines en boutique à Paris."
+T0126,2026-09-16,reseaux_sociaux,Question: Foulard Soie Atelier est-il compatible avec un voyage en avion (cabine) ?
+T0127,2026-09-25,email,"Le parfum Eau de parfum Brume fuit dans la boîte, flacon cassé à l'arrivée."
+T0128,2026-09-26,reseaux_sociaux,"Je souhaite retourner Foulard Soie Atelier, reçu hier, ne convient pas. Achat en ligne."
+T0129,2026-09-15,email,"Erreur de taille sur Crème Nuit Opaline, je voudrais échanger contre la taille supérieure."
+T0130,2026-09-13,chat,"Le parfum Robe Soie Opale fuit dans la boîte, flacon cassé à l'arrivée."
+T0131,2026-09-29,telephone,Question: Eau de parfum Ambre Noir est-il compatible avec un voyage en avion (cabine) ?
+T0132,2026-09-01,chat,"Livraison de Lunettes Horizon en retard de 10 jours, toujours rien !!"
+T0133,2026-09-16,email,Vous m'avez facturée deux fois pour Lunettes Horizon. Merci de rembourser.
+T0134,2026-09-06,telephone,Question: Masque Perle est-il compatible avec un voyage en avion (cabine) ?
+T0135,2026-09-27,chat,"Mon sac Lunettes Horizon a une anse abîmée après 3 mois, je voudrais un échange."
+T0136,2026-09-14,telephone,"Livraison de Extrait Solaire en retard de 10 jours, toujours rien !!"
+T0137,2026-09-28,chat,"Mon sac Crème Nuit Opaline a une anse abîmée après 3 mois, je voudrais un échange."
+T0138,2026-09-05,reseaux_sociaux,"Erreur de taille sur Sérum Éclat, je voudrais échanger contre la taille supérieure."
+T0139,2026-09-27,email,"Je souhaite retourner Robe Soie Opale, reçu hier, ne convient pas. Achat en ligne."
+T0140,2026-09-03,email,"Je souhaite retourner Eau de parfum Brume, reçu hier, ne convient pas. Achat en ligne."
+T0141,2026-09-18,reseaux_sociaux,"Livraison de Eau de parfum Ambre Noir en retard de 10 jours, toujours rien !!"
+T0142,2026-09-04,reseaux_sociaux,Vous m'avez facturée deux fois pour Extrait Solaire. Merci de rembourser.
+T0143,2026-09-27,telephone,"Je souhaite retourner Crème Nuit Opaline, reçu hier, ne convient pas. Achat en ligne."
+T0144,2026-09-22,email,"Erreur de taille sur Veste Tweed Maison, je voudrais échanger contre la taille supérieure."
+T0145,2026-09-23,telephone,Question: Veste Tweed Maison est-il compatible avec un voyage en avion (cabine) ?
+T0146,2026-09-06,reseaux_sociaux,"Livraison de Sac Aubrac en retard de 10 jours, toujours rien !!"
+T0147,2026-09-21,reseaux_sociaux,"Je souhaite retourner Veste Tweed Maison, reçu hier, ne convient pas. Achat en ligne."
+T0148,2026-09-19,chat,"Je souhaite retourner Sac Aubrac, reçu hier, ne convient pas. Achat en ligne."
+T0149,2026-09-30,telephone,"Livraison de Masque Perle en retard de 10 jours, toujours rien !!"
+T0150,2026-09-18,reseaux_sociaux,"Mon sac Ceinture Orélia a une anse abîmée après 3 mois, je voudrais un échange."
+T0151,2026-09-24,reseaux_sociaux,"Le parfum Veste Tweed Maison fuit dans la boîte, flacon cassé à l'arrivée."
+T0152,2026-09-25,telephone,"Le parfum Sac Aubrac fuit dans la boîte, flacon cassé à l'arrivée."
+T0153,2026-09-16,email,"Erreur de taille sur Veste Tweed Maison, je voudrais échanger contre la taille supérieure."
+T0154,2026-09-04,chat,"Le parfum Sac Céleste fuit dans la boîte, flacon cassé à l'arrivée."
+T0155,2026-09-28,email,Question: Masque Perle est-il compatible avec un voyage en avion (cabine) ?
+T0156,2026-09-22,email,"Le parfum Eau de parfum Ambre Noir fuit dans la boîte, flacon cassé à l'arrivée."
+T0157,2026-09-24,email,"Bonjour, où en est ma réparation de Sac Aubrac déposée à la boutique de Tokyo ?"
+T0158,2026-09-13,email,"Erreur de taille sur Sac Aubrac, je voudrais échanger contre la taille supérieure."
+T0159,2026-09-25,email,Question: Ceinture Orélia est-il compatible avec un voyage en avion (cabine) ?
+T0160,2026-09-22,email,"Mon sac Robe Soie Opale a une anse abîmée après 3 mois, je voudrais un échange."
+T0161,2026-09-06,reseaux_sociaux,Vous m'avez facturée deux fois pour Bijou Étoile. Merci de rembourser.
+T0162,2026-09-19,email,"Livraison de Eau de parfum Brume en retard de 10 jours, toujours rien !!"
+T0163,2026-09-16,email,"Bonjour, où en est ma réparation de Foulard Soie Atelier déposée à la boutique de New ?"
+T0164,2026-09-03,reseaux_sociaux,"Bonjour, où en est ma réparation de Foulard Soie Atelier déposée à la boutique de Los ?"
+T0165,2026-09-15,email,"Le parfum Eau de parfum Brume fuit dans la boîte, flacon cassé à l'arrivée."
+T0166,2026-09-13,reseaux_sociaux,"Mon sac Lunettes Horizon a une anse abîmée après 3 mois, je voudrais un échange."
+T0167,2026-09-21,email,Vous m'avez facturée deux fois pour Crème Nuit Opaline. Merci de rembourser.
+T0168,2026-09-15,reseaux_sociaux,"Je souhaite retourner Masque Perle, reçu hier, ne convient pas. Achat en ligne."
+T0169,2026-09-07,email,"Erreur de taille sur Robe Soie Opale, je voudrais échanger contre la taille supérieure."
+T0170,2026-09-03,email,"Mon sac Lunettes Horizon a une anse abîmée après 3 mois, je voudrais un échange."
+T0171,2026-09-22,chat,"Mon sac Crème Nuit Opaline a une anse abîmée après 3 mois, je voudrais un échange."
+T0172,2026-09-29,email,"Je voudrais le remboursement de Eau de parfum Brume, acheté il y a 5 semaines en boutique à Dubai."
+T0173,2026-09-06,reseaux_sociaux,"Erreur de taille sur Eau de parfum Ambre Noir, je voudrais échanger contre la taille supérieure."
+T0174,2026-09-18,email,Vous m'avez facturée deux fois pour Ceinture Orélia. Merci de rembourser.
+T0175,2026-09-26,reseaux_sociaux,Question: Petite maroquinerie Lune est-il compatible avec un voyage en avion (cabine) ?
+T0176,2026-09-04,email,"Le parfum Lunettes Horizon fuit dans la boîte, flacon cassé à l'arrivée."
+T0177,2026-09-13,email,"Je voudrais le remboursement de Eau de parfum Ambre Noir, acheté il y a 5 semaines en boutique à Singapour."
+T0178,2026-09-24,chat,"Mon sac Sac Aubrac a une anse abîmée après 3 mois, je voudrais un échange."
+T0179,2026-09-23,telephone,"Mon sac Lunettes Horizon a une anse abîmée après 3 mois, je voudrais un échange."
+T0180,2026-09-06,email,"Je voudrais le remboursement de Eau de parfum Brume, acheté il y a 5 semaines en boutique à Los."
+T0181,2026-09-14,chat,Question: Sac Aubrac est-il compatible avec un voyage en avion (cabine) ?
+T0182,2026-09-28,telephone,Vous m'avez facturée deux fois pour Masque Perle. Merci de rembourser.
+T0183,2026-09-01,reseaux_sociaux,Question: Extrait Solaire est-il compatible avec un voyage en avion (cabine) ?
+T0184,2026-09-23,reseaux_sociaux,"Erreur de taille sur Extrait Solaire, je voudrais échanger contre la taille supérieure."
+T0185,2026-09-05,chat,Question: Crème Nuit Opaline est-il compatible avec un voyage en avion (cabine) ?
+T0186,2026-09-03,telephone,"Le parfum Foulard Soie Atelier fuit dans la boîte, flacon cassé à l'arrivée."
+T0187,2026-09-11,telephone,"Le parfum Veste Tweed Maison fuit dans la boîte, flacon cassé à l'arrivée."
+T0188,2026-09-06,chat,"Je voudrais le remboursement de Lunettes Horizon, acheté il y a 5 semaines en boutique à Lyon."
+T0189,2026-09-27,telephone,Question: Bijou Étoile est-il compatible avec un voyage en avion (cabine) ?
+T0190,2026-09-22,email,Question: Crème Nuit Opaline est-il compatible avec un voyage en avion (cabine) ?
+T0191,2026-09-06,reseaux_sociaux,Vous m'avez facturée deux fois pour Chemise Nacre. Merci de rembourser.
+T0192,2026-09-06,chat,Question: Sac Céleste est-il compatible avec un voyage en avion (cabine) ?
+T0193,2026-09-14,email,"Mon sac Masque Perle a une anse abîmée après 3 mois, je voudrais un échange."
+T0194,2026-09-03,reseaux_sociaux,Vous m'avez facturée deux fois pour Bijou Étoile. Merci de rembourser.
+T0195,2026-09-17,email,"Bonjour, où en est ma réparation de Petite maroquinerie Lune déposée à la boutique de New ?"
+T0196,2026-09-09,reseaux_sociaux,"Erreur de taille sur Sac Céleste, je voudrais échanger contre la taille supérieure."
+T0197,2026-09-14,email,"Livraison de Sérum Éclat en retard de 10 jours, toujours rien !!"
+T0198,2026-09-29,reseaux_sociaux,"Livraison de Sac Aubrac en retard de 10 jours, toujours rien !!"
+T0199,2026-09-20,telephone,"URGENT cadeau mariage samedi, Lunettes Horizon non reçu, commande passée il y a 3 jours"
+T0200,2026-09-25,email,"Je souhaite retourner Extrait Solaire, reçu hier, ne convient pas. Achat en ligne."
+T0201,2026-09-19,chat,"Livraison de Sac Céleste en retard de 10 jours, toujours rien !!"
+T0202,2026-09-13,chat,"Le parfum Foulard Soie Atelier fuit dans la boîte, flacon cassé à l'arrivée."
+T0203,2026-09-12,email,"Je souhaite retourner Foulard Soie Atelier, reçu hier, ne convient pas. Achat en ligne."
+T0204,2026-09-01,email,"Erreur de taille sur Lunettes Horizon, je voudrais échanger contre la taille supérieure."
+T0205,2026-09-20,telephone,Vous m'avez facturée deux fois pour Masque Perle. Merci de rembourser.
+T0206,2026-09-18,email,"Bonjour, où en est ma réparation de Sérum Éclat déposée à la boutique de Los ?"
+T0207,2026-09-11,email,"Je voudrais le remboursement de Sac Aubrac, acheté il y a 5 semaines en boutique à Paris."
+T0208,2026-09-07,chat,Question: Extrait Solaire est-il compatible avec un voyage en avion (cabine) ?
+T0209,2026-09-14,chat,"Je souhaite retourner Masque Perle, reçu hier, ne convient pas. Achat en ligne."
+T0210,2026-09-03,reseaux_sociaux,"Je voudrais le remboursement de Petite maroquinerie Lune, acheté il y a 5 semaines en boutique à Lyon."
+T0211,2026-09-08,email,Vous m'avez facturée deux fois pour Sac Céleste. Merci de rembourser.
+T0212,2026-09-08,chat,"Bonjour, où en est ma réparation de Petite maroquinerie Lune déposée à la boutique de Paris ?"
+T0213,2026-09-15,email,"Bonjour, où en est ma réparation de Extrait Solaire déposée à la boutique de Dubai ?"
+T0214,2026-09-21,chat,"Je voudrais le remboursement de Lunettes Horizon, acheté il y a 5 semaines en boutique à Singapour."
+T0215,2026-09-01,telephone,"Le parfum Masque Perle fuit dans la boîte, flacon cassé à l'arrivée."
+T0216,2026-09-16,email,"URGENT cadeau mariage samedi, Eau de parfum Brume non reçu, commande passée il y a 3 jours"
+T0217,2026-09-16,chat,Question: Eau de parfum Ambre Noir est-il compatible avec un voyage en avion (cabine) ?
+T0218,2026-09-29,chat,"URGENT cadeau mariage samedi, Masque Perle non reçu, commande passée il y a 3 jours"
+T0219,2026-09-22,email,"Livraison de Lunettes Horizon en retard de 10 jours, toujours rien !!"
+T0220,2026-09-09,reseaux_sociaux,"URGENT cadeau mariage samedi, Eau de parfum Brume non reçu, commande passée il y a 3 jours"
+T0221,2026-09-20,email,Vous m'avez facturée deux fois pour Robe Soie Opale. Merci de rembourser.
+T0222,2026-09-07,email,"URGENT cadeau mariage samedi, Chemise Nacre non reçu, commande passée il y a 3 jours"
+T0223,2026-09-20,email,"Je souhaite retourner Petite maroquinerie Lune, reçu hier, ne convient pas. Achat en ligne."
+T0224,2026-09-01,telephone,"Je souhaite retourner Lunettes Horizon, reçu hier, ne convient pas. Achat en ligne."
+T0225,2026-09-11,email,"Je souhaite retourner Foulard Soie Atelier, reçu hier, ne convient pas. Achat en ligne."
+T0226,2026-09-07,reseaux_sociaux,Vous m'avez facturée deux fois pour Sac Céleste. Merci de rembourser.
+T0227,2026-09-07,email,"Erreur de taille sur Petite maroquinerie Lune, je voudrais échanger contre la taille supérieure."
+T0228,2026-09-18,email,"Bonjour, où en est ma réparation de Eau de parfum Brume déposée à la boutique de Singapour ?"
+T0229,2026-09-11,email,"URGENT cadeau mariage samedi, Crème Nuit Opaline non reçu, commande passée il y a 3 jours"
+T0230,2026-09-10,email,"Je voudrais le remboursement de Veste Tweed Maison, acheté il y a 5 semaines en boutique à Los."
+T0231,2026-09-09,reseaux_sociaux,"Livraison de Crème Nuit Opaline en retard de 10 jours, toujours rien !!"
+T0232,2026-09-26,telephone,"Je voudrais le remboursement de Extrait Solaire, acheté il y a 5 semaines en boutique à Los."
+T0233,2026-09-22,email,"URGENT cadeau mariage samedi, Eau de parfum Brume non reçu, commande passée il y a 3 jours"
+T0234,2026-09-29,telephone,"Bonjour, où en est ma réparation de Eau de parfum Brume déposée à la boutique de Lyon ?"
+T0235,2026-09-20,email,"Le parfum Bijou Étoile fuit dans la boîte, flacon cassé à l'arrivée."
+T0236,2026-09-18,chat,"URGENT cadeau mariage samedi, Chemise Nacre non reçu, commande passée il y a 3 jours"
+T0237,2026-09-14,email,"Mon sac Chemise Nacre a une anse abîmée après 3 mois, je voudrais un échange."
+T0238,2026-09-12,email,"Je souhaite retourner Chemise Nacre, reçu hier, ne convient pas. Achat en ligne."
+T0239,2026-09-03,email,"Je voudrais le remboursement de Ceinture Orélia, acheté il y a 5 semaines en boutique à Paris."
+T0240,2026-09-12,email,"Le parfum Veste Tweed Maison fuit dans la boîte, flacon cassé à l'arrivée."
