@@ -12,7 +12,7 @@ You do not need to know how to code to follow this dojo. You need to know how to
 | **Agents** | You describe a goal; Copilot reads files, edits them, runs commands and iterates. | Expert |
 
 ## 2. Open Copilot Chat
-1. In your Codespace, click the **chat icon** at the top of the window, or open the Chat view from the sidebar.
+1. In your Codespace, click the **chat icon** in the title bar at the top of the window, or press `Ctrl+Alt+I` (Windows/Linux) / `Control+Command+I` (Mac).
 2. If you are asked to sign in, use your GitHub account that has Copilot access.
 3. Type your message in the box at the bottom and press `Enter`.
 
@@ -39,6 +39,8 @@ Copilot only knows what it can see. Point it to your material with `#` mentions:
 | `#file:data/sales.csv` | a specific file |
 | `#folder:docs/knowledge-base` | a whole folder |
 | `#codebase` | the whole project (it searches for what is relevant) |
+
+**Size matters.** Copilot reads text, it does not run a spreadsheet. A file with a few hundred rows is fine; a file with tens of thousands of rows cannot be read reliably in Ask mode, and it may guess instead of calculating. Give it summaries, extracts, or use Agent mode (Builder/Expert levels) so it can compute with code.
 
 You can also attach images (screenshots, mockups) to the chat. Always **name the important files explicitly** instead of hoping Copilot picks them up.
 
@@ -95,4 +97,4 @@ This repository already includes a `.github/copilot-instructions.md`. Open it, t
 - Prompt = **Goal + Context + Constraints + Format**.
 - Always: **method, cross-check, review**.
 
-Ready? Go to the [warm-up adventure](../Adventures/StartHere.md).
+Next: follow the [click-by-click setup guide](./01-setup-click-by-click.md), then start the [warm-up adventure](../Adventures/StartHere.md).

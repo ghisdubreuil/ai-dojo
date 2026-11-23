@@ -3,7 +3,7 @@
 ## Recommended format: 3-hour dojo (8–20 people)
 | Time | Session |
 |---|---|
-| 0:00–0:20 | Welcome, goals, each participant opens their Codespace. Walk through the [introduction to Copilot](./docs/00-getting-started-with-copilot.md) |
+| 0:00–0:20 | Welcome, goals. Walk through the [introduction to Copilot](./docs/00-getting-started-with-copilot.md), then everyone follows the [click-by-click setup](./docs/01-setup-click-by-click.md) (Parts 1 to 4) |
 | 0:20–0:35 | [Warm-up adventure](./Adventures/StartHere.md) together |
 | 0:35–1:15 | Round 1: everyone picks a track (A/B/C) and a level |
 | 1:15–1:30 | Break + 2 participant demos |
@@ -27,7 +27,10 @@ Golden rule: **you can go up or down at any time.** Someone stuck in Builder dro
 - Codespaces quota: arrange for an organisation or account to cover usage.
 - Data: everything is fictional, but repeat the rule "never put real confidential data in a prompt" for real-world use.
 - A model's numbers are not to be believed, they are to be verified.
-- Copilot's interface changes often: do a dry run the day before and adapt the mode names if needed.
+- Copilot's interface changes often: **do a full dry run the day before** (setup guide + warm-up + one Discovery adventure) and fix any label that differs from the guide.
+- Consider adding screenshots of your own screen to the setup guide after the dry run (a `docs/images/` folder works well).
+- Have a facilitator or buddy per 4–5 participants during the setup: most blockers happen in the first 10 minutes (sign-in, Codespace quota, Copilot seat).
+- Discovery adventures use small files on purpose: a chat assistant cannot reliably add up a 21,000-row file. This is itself a lesson to share.
 
 ## Reference solutions
 Solutions are deliberately not in this repository. Keep them in a private branch, or have Copilot produce its own.

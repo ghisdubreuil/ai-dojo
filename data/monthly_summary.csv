@@ -1,0 +1,756 @@
+month,store_id,store_name,region,division,revenue_eur,units
+2025-01,B01,Paris Faubourg,Europe,Fashion,37803,41
+2025-01,B01,Paris Faubourg,Europe,Fragrance & Beauty,12341,119
+2025-01,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,47360,8
+2025-01,B02,London Mayfair,UK,Fashion,27192,31
+2025-01,B02,London Mayfair,UK,Fragrance & Beauty,13494,126
+2025-01,B02,London Mayfair,UK,Watches & Fine Jewelry,7700,2
+2025-01,B03,Lyon Presqu'île,Europe,Fashion,8108,10
+2025-01,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5399,47
+2025-01,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,22250,4
+2025-01,B04,Tokyo Ginza,Japan,Fashion,24314,40
+2025-01,B04,Tokyo Ginza,Japan,Fragrance & Beauty,12047,111
+2025-01,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,40690,6
+2025-01,B05,New York Madison,US,Fashion,39577,37
+2025-01,B05,New York Madison,US,Fragrance & Beauty,16872,147
+2025-01,B05,New York Madison,US,Watches & Fine Jewelry,49400,8
+2025-01,B06,Dubai Mall,Swiss & Others,Fashion,24822,29
+2025-01,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,12592,123
+2025-01,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,11970,3
+2025-01,B07,Singapore Orchard,APAC,Fashion,14651,21
+2025-01,B07,Singapore Orchard,APAC,Fragrance & Beauty,7642,70
+2025-01,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,15190,2
+2025-01,B08,Los Angeles Rodeo,US,Fashion,17139,19
+2025-01,B08,Los Angeles Rodeo,US,Fragrance & Beauty,8303,67
+2025-01,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,29000,4
+2025-01,B09,Milan Montenapoleone,Europe,Fashion,16358,25
+2025-01,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,10766,104
+2025-01,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,12820,2
+2025-01,B10,Hong Kong Landmark,APAC,Fashion,19141,19
+2025-01,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,8716,102
+2025-01,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,21420,3
+2025-01,B11,Osaka Shinsaibashi,Japan,Fashion,8973,15
+2025-01,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7979,67
+2025-01,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,3360,1
+2025-01,B12,Geneva Rues-Basses,Swiss & Others,Fashion,10851,11
+2025-01,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,7223,70
+2025-01,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,33050,4
+2025-02,B01,Paris Faubourg,Europe,Fashion,23100,28
+2025-02,B01,Paris Faubourg,Europe,Fragrance & Beauty,11551,106
+2025-02,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,32500,4
+2025-02,B02,London Mayfair,UK,Fashion,26170,18
+2025-02,B02,London Mayfair,UK,Fragrance & Beauty,15130,133
+2025-02,B02,London Mayfair,UK,Watches & Fine Jewelry,67900,10
+2025-02,B03,Lyon Presqu'île,Europe,Fashion,25560,15
+2025-02,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5141,47
+2025-02,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,35900,3
+2025-02,B04,Tokyo Ginza,Japan,Fashion,40330,38
+2025-02,B04,Tokyo Ginza,Japan,Fragrance & Beauty,16002,129
+2025-02,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,39500,4
+2025-02,B05,New York Madison,US,Fashion,40570,39
+2025-02,B05,New York Madison,US,Fragrance & Beauty,14101,114
+2025-02,B05,New York Madison,US,Watches & Fine Jewelry,29000,2
+2025-02,B06,Dubai Mall,Swiss & Others,Fashion,25960,28
+2025-02,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,12578,101
+2025-02,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,18700,3
+2025-02,B07,Singapore Orchard,APAC,Fashion,12150,7
+2025-02,B07,Singapore Orchard,APAC,Fragrance & Beauty,8701,72
+2025-02,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,53900,7
+2025-02,B08,Los Angeles Rodeo,US,Fashion,32000,26
+2025-02,B08,Los Angeles Rodeo,US,Fragrance & Beauty,10055,75
+2025-02,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,61500,8
+2025-02,B09,Milan Montenapoleone,Europe,Fashion,17380,18
+2025-02,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9466,74
+2025-02,B10,Hong Kong Landmark,APAC,Fashion,26570,30
+2025-02,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,13575,93
+2025-02,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,5600,1
+2025-02,B11,Osaka Shinsaibashi,Japan,Fashion,12280,17
+2025-02,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,6053,51
+2025-02,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,35900,3
+2025-02,B12,Geneva Rues-Basses,Swiss & Others,Fashion,7630,14
+2025-02,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,6098,57
+2025-02,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,24700,3
+2025-03,B01,Paris Faubourg,Europe,Fashion,50740,38
+2025-03,B01,Paris Faubourg,Europe,Fragrance & Beauty,16446,135
+2025-03,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,65100,8
+2025-03,B02,London Mayfair,UK,Fashion,27370,28
+2025-03,B02,London Mayfair,UK,Fragrance & Beauty,16273,128
+2025-03,B02,London Mayfair,UK,Watches & Fine Jewelry,90800,8
+2025-03,B03,Lyon Presqu'île,Europe,Fashion,22190,15
+2025-03,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7873,66
+2025-03,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,55300,6
+2025-03,B04,Tokyo Ginza,Japan,Fashion,36120,43
+2025-03,B04,Tokyo Ginza,Japan,Fragrance & Beauty,20929,157
+2025-03,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,86500,9
+2025-03,B05,New York Madison,US,Fashion,62170,61
+2025-03,B05,New York Madison,US,Fragrance & Beauty,21205,167
+2025-03,B05,New York Madison,US,Watches & Fine Jewelry,128800,14
+2025-03,B06,Dubai Mall,Swiss & Others,Fashion,30630,25
+2025-03,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,17449,131
+2025-03,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,39500,3
+2025-03,B07,Singapore Orchard,APAC,Fashion,16480,18
+2025-03,B07,Singapore Orchard,APAC,Fragrance & Beauty,11440,85
+2025-03,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,29300,5
+2025-03,B08,Los Angeles Rodeo,US,Fashion,12160,14
+2025-03,B08,Los Angeles Rodeo,US,Fragrance & Beauty,11066,87
+2025-03,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,27800,4
+2025-03,B09,Milan Montenapoleone,Europe,Fashion,19290,23
+2025-03,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,12484,109
+2025-03,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,9800,2
+2025-03,B10,Hong Kong Landmark,APAC,Fashion,13620,20
+2025-03,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,14598,108
+2025-03,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,74900,9
+2025-03,B11,Osaka Shinsaibashi,Japan,Fashion,16790,23
+2025-03,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,9108,68
+2025-03,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,27800,4
+2025-03,B12,Geneva Rues-Basses,Swiss & Others,Fashion,35400,22
+2025-03,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8119,52
+2025-03,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,74200,10
+2025-04,B01,Paris Faubourg,Europe,Fashion,37860,38
+2025-04,B01,Paris Faubourg,Europe,Fragrance & Beauty,19272,157
+2025-04,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,27000,2
+2025-04,B02,London Mayfair,UK,Fashion,22980,31
+2025-04,B02,London Mayfair,UK,Fragrance & Beauty,15832,127
+2025-04,B02,London Mayfair,UK,Watches & Fine Jewelry,31200,3
+2025-04,B03,Lyon Presqu'île,Europe,Fashion,21370,17
+2025-04,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5782,51
+2025-04,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,12500,1
+2025-04,B04,Tokyo Ginza,Japan,Fashion,34400,30
+2025-04,B04,Tokyo Ginza,Japan,Fragrance & Beauty,18122,147
+2025-04,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,87800,12
+2025-04,B05,New York Madison,US,Fashion,28470,35
+2025-04,B05,New York Madison,US,Fragrance & Beauty,22154,172
+2025-04,B05,New York Madison,US,Watches & Fine Jewelry,70200,9
+2025-04,B06,Dubai Mall,Swiss & Others,Fashion,28370,20
+2025-04,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,12965,105
+2025-04,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,25600,3
+2025-04,B07,Singapore Orchard,APAC,Fashion,16140,15
+2025-04,B07,Singapore Orchard,APAC,Fragrance & Beauty,10960,83
+2025-04,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,40100,5
+2025-04,B08,Los Angeles Rodeo,US,Fashion,30030,33
+2025-04,B08,Los Angeles Rodeo,US,Fragrance & Beauty,12947,101
+2025-04,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,15300,3
+2025-04,B09,Milan Montenapoleone,Europe,Fashion,22990,21
+2025-04,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9936,85
+2025-04,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,37400,5
+2025-04,B10,Hong Kong Landmark,APAC,Fashion,26530,23
+2025-04,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,12139,100
+2025-04,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,20700,3
+2025-04,B11,Osaka Shinsaibashi,Japan,Fashion,9870,12
+2025-04,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,9069,72
+2025-04,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,12500,2
+2025-04,B12,Geneva Rues-Basses,Swiss & Others,Fashion,19830,22
+2025-04,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,7321,56
+2025-04,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,78700,7
+2025-05,B01,Paris Faubourg,Europe,Fashion,35120,35
+2025-05,B01,Paris Faubourg,Europe,Fragrance & Beauty,20566,166
+2025-05,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,80300,9
+2025-05,B02,London Mayfair,UK,Fashion,27870,38
+2025-05,B02,London Mayfair,UK,Fragrance & Beauty,15634,126
+2025-05,B02,London Mayfair,UK,Watches & Fine Jewelry,17300,3
+2025-05,B03,Lyon Presqu'île,Europe,Fashion,18420,21
+2025-05,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,6343,66
+2025-05,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,74000,8
+2025-05,B04,Tokyo Ginza,Japan,Fashion,43270,37
+2025-05,B04,Tokyo Ginza,Japan,Fragrance & Beauty,23192,197
+2025-05,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,69300,8
+2025-05,B05,New York Madison,US,Fashion,56100,56
+2025-05,B05,New York Madison,US,Fragrance & Beauty,26428,213
+2025-05,B05,New York Madison,US,Watches & Fine Jewelry,35400,6
+2025-05,B06,Dubai Mall,Swiss & Others,Fashion,47570,47
+2025-05,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,16719,124
+2025-05,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,49000,6
+2025-05,B07,Singapore Orchard,APAC,Fashion,24850,24
+2025-05,B07,Singapore Orchard,APAC,Fragrance & Beauty,11431,99
+2025-05,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,37900,3
+2025-05,B08,Los Angeles Rodeo,US,Fashion,22520,19
+2025-05,B08,Los Angeles Rodeo,US,Fragrance & Beauty,11086,96
+2025-05,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,22900,4
+2025-05,B09,Milan Montenapoleone,Europe,Fashion,19270,25
+2025-05,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,14221,116
+2025-05,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,45700,5
+2025-05,B10,Hong Kong Landmark,APAC,Fashion,27650,22
+2025-05,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,13918,107
+2025-05,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,20900,4
+2025-05,B11,Osaka Shinsaibashi,Japan,Fashion,13420,20
+2025-05,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,12845,103
+2025-05,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,29900,4
+2025-05,B12,Geneva Rues-Basses,Swiss & Others,Fashion,30820,23
+2025-05,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,12764,101
+2025-05,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,14500,2
+2025-06,B01,Paris Faubourg,Europe,Fashion,26380,34
+2025-06,B01,Paris Faubourg,Europe,Fragrance & Beauty,16332,138
+2025-06,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,54600,6
+2025-06,B02,London Mayfair,UK,Fashion,30570,30
+2025-06,B02,London Mayfair,UK,Fragrance & Beauty,16610,135
+2025-06,B02,London Mayfair,UK,Watches & Fine Jewelry,22200,4
+2025-06,B03,Lyon Presqu'île,Europe,Fashion,19920,14
+2025-06,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7299,67
+2025-06,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,38100,6
+2025-06,B04,Tokyo Ginza,Japan,Fashion,50820,44
+2025-06,B04,Tokyo Ginza,Japan,Fragrance & Beauty,20502,161
+2025-06,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,49000,5
+2025-06,B05,New York Madison,US,Fashion,39410,33
+2025-06,B05,New York Madison,US,Fragrance & Beauty,25598,196
+2025-06,B05,New York Madison,US,Watches & Fine Jewelry,74900,10
+2025-06,B06,Dubai Mall,Swiss & Others,Fashion,30930,39
+2025-06,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,17189,139
+2025-06,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,77400,8
+2025-06,B07,Singapore Orchard,APAC,Fashion,31470,30
+2025-06,B07,Singapore Orchard,APAC,Fragrance & Beauty,6863,49
+2025-06,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,61500,7
+2025-06,B08,Los Angeles Rodeo,US,Fashion,28240,26
+2025-06,B08,Los Angeles Rodeo,US,Fragrance & Beauty,9176,73
+2025-06,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,15800,2
+2025-06,B09,Milan Montenapoleone,Europe,Fashion,35960,27
+2025-06,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,18342,121
+2025-06,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,15300,3
+2025-06,B10,Hong Kong Landmark,APAC,Fashion,28630,34
+2025-06,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,12245,92
+2025-06,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,43000,6
+2025-06,B11,Osaka Shinsaibashi,Japan,Fashion,17470,15
+2025-06,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7494,58
+2025-06,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,15800,2
+2025-06,B12,Geneva Rues-Basses,Swiss & Others,Fashion,11600,12
+2025-06,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,12146,91
+2025-06,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,47000,5
+2025-07,B01,Paris Faubourg,Europe,Fashion,42693,50
+2025-07,B01,Paris Faubourg,Europe,Fragrance & Beauty,14655,142
+2025-07,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,19930,4
+2025-07,B02,London Mayfair,UK,Fashion,31495,45
+2025-07,B02,London Mayfair,UK,Fragrance & Beauty,18271,151
+2025-07,B02,London Mayfair,UK,Watches & Fine Jewelry,23430,4
+2025-07,B03,Lyon Presqu'île,Europe,Fashion,12224,13
+2025-07,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7168,69
+2025-07,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,43630,6
+2025-07,B04,Tokyo Ginza,Japan,Fashion,31253,42
+2025-07,B04,Tokyo Ginza,Japan,Fragrance & Beauty,18334,170
+2025-07,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,35060,6
+2025-07,B05,New York Madison,US,Fashion,26138,32
+2025-07,B05,New York Madison,US,Fragrance & Beauty,17195,174
+2025-07,B05,New York Madison,US,Watches & Fine Jewelry,84860,11
+2025-07,B06,Dubai Mall,Swiss & Others,Fashion,24769,27
+2025-07,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,13027,134
+2025-07,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,35720,7
+2025-07,B07,Singapore Orchard,APAC,Fashion,17506,20
+2025-07,B07,Singapore Orchard,APAC,Fragrance & Beauty,7440,80
+2025-07,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,11600,2
+2025-07,B08,Los Angeles Rodeo,US,Fashion,18975,22
+2025-07,B08,Los Angeles Rodeo,US,Fragrance & Beauty,10111,91
+2025-07,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,5520,1
+2025-07,B09,Milan Montenapoleone,Europe,Fashion,22446,19
+2025-07,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9284,90
+2025-07,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,20440,5
+2025-07,B10,Hong Kong Landmark,APAC,Fashion,14786,15
+2025-07,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,11907,104
+2025-07,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,10260,2
+2025-07,B11,Osaka Shinsaibashi,Japan,Fashion,15112,15
+2025-07,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7921,77
+2025-07,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,4480,1
+2025-07,B12,Geneva Rues-Basses,Swiss & Others,Fashion,13387,13
+2025-07,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8645,93
+2025-07,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,49610,6
+2025-08,B01,Paris Faubourg,Europe,Fashion,34060,45
+2025-08,B01,Paris Faubourg,Europe,Fragrance & Beauty,15886,135
+2025-08,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,19400,3
+2025-08,B02,London Mayfair,UK,Fashion,26270,27
+2025-08,B02,London Mayfair,UK,Fragrance & Beauty,12455,90
+2025-08,B02,London Mayfair,UK,Watches & Fine Jewelry,67400,8
+2025-08,B03,Lyon Presqu'île,Europe,Fashion,12300,14
+2025-08,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,9648,77
+2025-08,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,32600,3
+2025-08,B04,Tokyo Ginza,Japan,Fashion,33810,31
+2025-08,B04,Tokyo Ginza,Japan,Fragrance & Beauty,15904,127
+2025-08,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,56800,7
+2025-08,B05,New York Madison,US,Fashion,43270,42
+2025-08,B05,New York Madison,US,Fragrance & Beauty,19419,138
+2025-08,B05,New York Madison,US,Watches & Fine Jewelry,58200,6
+2025-08,B06,Dubai Mall,Swiss & Others,Fashion,37750,27
+2025-08,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,11133,96
+2025-08,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,34800,6
+2025-08,B07,Singapore Orchard,APAC,Fashion,23310,20
+2025-08,B07,Singapore Orchard,APAC,Fragrance & Beauty,5819,54
+2025-08,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,22200,4
+2025-08,B08,Los Angeles Rodeo,US,Fashion,13830,18
+2025-08,B08,Los Angeles Rodeo,US,Fragrance & Beauty,10674,87
+2025-08,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,18100,2
+2025-08,B09,Milan Montenapoleone,Europe,Fashion,18680,17
+2025-08,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9368,76
+2025-08,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,15300,3
+2025-08,B10,Hong Kong Landmark,APAC,Fashion,19200,24
+2025-08,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,10944,92
+2025-08,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,36100,4
+2025-08,B11,Osaka Shinsaibashi,Japan,Fashion,21030,15
+2025-08,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7043,62
+2025-08,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,11100,2
+2025-08,B12,Geneva Rues-Basses,Swiss & Others,Fashion,9620,18
+2025-08,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,7651,68
+2025-08,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,37400,5
+2025-09,B01,Paris Faubourg,Europe,Fashion,45550,38
+2025-09,B01,Paris Faubourg,Europe,Fragrance & Beauty,23294,167
+2025-09,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,95200,8
+2025-09,B02,London Mayfair,UK,Fashion,39450,37
+2025-09,B02,London Mayfair,UK,Fragrance & Beauty,17404,151
+2025-09,B02,London Mayfair,UK,Watches & Fine Jewelry,42100,5
+2025-09,B03,Lyon Presqu'île,Europe,Fashion,16360,14
+2025-09,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,8846,74
+2025-09,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,38200,4
+2025-09,B04,Tokyo Ginza,Japan,Fashion,63330,67
+2025-09,B04,Tokyo Ginza,Japan,Fragrance & Beauty,18557,154
+2025-09,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,63800,8
+2025-09,B05,New York Madison,US,Fashion,44400,46
+2025-09,B05,New York Madison,US,Fragrance & Beauty,20991,188
+2025-09,B05,New York Madison,US,Watches & Fine Jewelry,96400,10
+2025-09,B06,Dubai Mall,Swiss & Others,Fashion,23870,32
+2025-09,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,13348,106
+2025-09,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,87800,11
+2025-09,B07,Singapore Orchard,APAC,Fashion,17620,13
+2025-09,B07,Singapore Orchard,APAC,Fragrance & Beauty,9174,79
+2025-09,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,68400,7
+2025-09,B08,Los Angeles Rodeo,US,Fashion,25580,16
+2025-09,B08,Los Angeles Rodeo,US,Fragrance & Beauty,14799,103
+2025-09,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,76800,10
+2025-09,B09,Milan Montenapoleone,Europe,Fashion,33230,26
+2025-09,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,14373,115
+2025-09,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,16700,3
+2025-09,B10,Hong Kong Landmark,APAC,Fashion,43830,30
+2025-09,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,11708,99
+2025-09,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,79300,11
+2025-09,B11,Osaka Shinsaibashi,Japan,Fashion,15800,11
+2025-09,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,9336,71
+2025-09,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,25700,3
+2025-09,B12,Geneva Rues-Basses,Swiss & Others,Fashion,20280,21
+2025-09,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,13546,92
+2025-09,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,59500,7
+2025-10,B01,Paris Faubourg,Europe,Fashion,43850,42
+2025-10,B01,Paris Faubourg,Europe,Fragrance & Beauty,23165,198
+2025-10,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,48600,6
+2025-10,B02,London Mayfair,UK,Fashion,31410,34
+2025-10,B02,London Mayfair,UK,Fragrance & Beauty,20571,158
+2025-10,B02,London Mayfair,UK,Watches & Fine Jewelry,98900,12
+2025-10,B03,Lyon Presqu'île,Europe,Fashion,18860,20
+2025-10,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7200,63
+2025-10,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,37500,5
+2025-10,B04,Tokyo Ginza,Japan,Fashion,52960,53
+2025-10,B04,Tokyo Ginza,Japan,Fragrance & Beauty,25212,190
+2025-10,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,45700,7
+2025-10,B05,New York Madison,US,Fashion,52400,56
+2025-10,B05,New York Madison,US,Fragrance & Beauty,25364,213
+2025-10,B05,New York Madison,US,Watches & Fine Jewelry,97600,12
+2025-10,B06,Dubai Mall,Swiss & Others,Fashion,32890,28
+2025-10,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,19161,134
+2025-10,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,63100,7
+2025-10,B07,Singapore Orchard,APAC,Fashion,13000,16
+2025-10,B07,Singapore Orchard,APAC,Fragrance & Beauty,9417,74
+2025-10,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,40500,7
+2025-10,B08,Los Angeles Rodeo,US,Fashion,21170,20
+2025-10,B08,Los Angeles Rodeo,US,Fragrance & Beauty,15889,110
+2025-10,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,44100,5
+2025-10,B09,Milan Montenapoleone,Europe,Fashion,35700,28
+2025-10,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,14224,117
+2025-10,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,66200,7
+2025-10,B10,Hong Kong Landmark,APAC,Fashion,28810,31
+2025-10,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,13163,122
+2025-10,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,42900,6
+2025-10,B11,Osaka Shinsaibashi,Japan,Fashion,18520,11
+2025-10,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,12455,97
+2025-10,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,22900,4
+2025-10,B12,Geneva Rues-Basses,Swiss & Others,Fashion,25410,25
+2025-10,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,12594,114
+2025-10,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,61600,6
+2025-11,B01,Paris Faubourg,Europe,Fashion,36410,47
+2025-11,B01,Paris Faubourg,Europe,Fragrance & Beauty,26568,227
+2025-11,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,65700,8
+2025-11,B02,London Mayfair,UK,Fashion,48760,49
+2025-11,B02,London Mayfair,UK,Fragrance & Beauty,25655,204
+2025-11,B02,London Mayfair,UK,Watches & Fine Jewelry,28500,5
+2025-11,B03,Lyon Presqu'île,Europe,Fashion,24240,15
+2025-11,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,9894,94
+2025-11,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,50600,6
+2025-11,B04,Tokyo Ginza,Japan,Fashion,44080,49
+2025-11,B04,Tokyo Ginza,Japan,Fragrance & Beauty,28098,239
+2025-11,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,53200,7
+2025-11,B05,New York Madison,US,Fashion,71820,71
+2025-11,B05,New York Madison,US,Fragrance & Beauty,27287,224
+2025-11,B05,New York Madison,US,Watches & Fine Jewelry,119600,15
+2025-11,B06,Dubai Mall,Swiss & Others,Fashion,55630,54
+2025-11,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,22467,160
+2025-11,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,17300,3
+2025-11,B07,Singapore Orchard,APAC,Fashion,24160,22
+2025-11,B07,Singapore Orchard,APAC,Fragrance & Beauty,19133,147
+2025-11,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,56300,8
+2025-11,B08,Los Angeles Rodeo,US,Fashion,42230,42
+2025-11,B08,Los Angeles Rodeo,US,Fragrance & Beauty,15892,129
+2025-11,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,63800,6
+2025-11,B09,Milan Montenapoleone,Europe,Fashion,25330,34
+2025-11,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,13999,116
+2025-11,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,70700,7
+2025-11,B10,Hong Kong Landmark,APAC,Fashion,33990,36
+2025-11,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,18561,158
+2025-11,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,60800,7
+2025-11,B11,Osaka Shinsaibashi,Japan,Fashion,15060,14
+2025-11,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,12634,112
+2025-11,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,34000,6
+2025-11,B12,Geneva Rues-Basses,Swiss & Others,Fashion,33580,31
+2025-11,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,17709,129
+2025-11,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,16700,2
+2025-12,B01,Paris Faubourg,Europe,Fashion,80470,70
+2025-12,B01,Paris Faubourg,Europe,Fragrance & Beauty,32295,251
+2025-12,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,143000,16
+2025-12,B02,London Mayfair,UK,Fashion,78220,70
+2025-12,B02,London Mayfair,UK,Fragrance & Beauty,31096,249
+2025-12,B02,London Mayfair,UK,Watches & Fine Jewelry,79500,10
+2025-12,B03,Lyon Presqu'île,Europe,Fashion,31520,28
+2025-12,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,15122,116
+2025-12,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,12500,1
+2025-12,B04,Tokyo Ginza,Japan,Fashion,62400,57
+2025-12,B04,Tokyo Ginza,Japan,Fragrance & Beauty,39354,315
+2025-12,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,117400,17
+2025-12,B05,New York Madison,US,Fashion,85840,76
+2025-12,B05,New York Madison,US,Fragrance & Beauty,37969,294
+2025-12,B05,New York Madison,US,Watches & Fine Jewelry,142500,17
+2025-12,B06,Dubai Mall,Swiss & Others,Fashion,54640,48
+2025-12,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,24880,211
+2025-12,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,118500,15
+2025-12,B07,Singapore Orchard,APAC,Fashion,34510,34
+2025-12,B07,Singapore Orchard,APAC,Fragrance & Beauty,18205,135
+2025-12,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,57700,9
+2025-12,B08,Los Angeles Rodeo,US,Fashion,49240,49
+2025-12,B08,Los Angeles Rodeo,US,Fragrance & Beauty,19195,157
+2025-12,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,49200,7
+2025-12,B09,Milan Montenapoleone,Europe,Fashion,59190,54
+2025-12,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,20981,166
+2025-12,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,57500,6
+2025-12,B10,Hong Kong Landmark,APAC,Fashion,42960,36
+2025-12,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,26327,197
+2025-12,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,131900,15
+2025-12,B11,Osaka Shinsaibashi,Japan,Fashion,30620,36
+2025-12,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,14828,130
+2025-12,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,80700,9
+2025-12,B12,Geneva Rues-Basses,Swiss & Others,Fashion,48400,33
+2025-12,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,18616,142
+2025-12,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,95300,14
+2026-01,B01,Paris Faubourg,Europe,Fashion,27211,39
+2026-01,B01,Paris Faubourg,Europe,Fragrance & Beauty,13119,135
+2026-01,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,44870,6
+2026-01,B02,London Mayfair,UK,Fashion,17192,19
+2026-01,B02,London Mayfair,UK,Fragrance & Beauty,10014,115
+2026-01,B02,London Mayfair,UK,Watches & Fine Jewelry,61830,10
+2026-01,B03,Lyon Presqu'île,Europe,Fashion,6179,9
+2026-01,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,4894,49
+2026-01,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,30690,6
+2026-01,B04,Tokyo Ginza,Japan,Fashion,31800,43
+2026-01,B04,Tokyo Ginza,Japan,Fragrance & Beauty,15871,146
+2026-01,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,15860,2
+2026-01,B05,New York Madison,US,Fashion,33928,37
+2026-01,B05,New York Madison,US,Fragrance & Beauty,14463,143
+2026-01,B05,New York Madison,US,Watches & Fine Jewelry,64950,10
+2026-01,B06,Dubai Mall,Swiss & Others,Fashion,21880,28
+2026-01,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,9373,99
+2026-01,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,14980,2
+2026-01,B07,Singapore Orchard,APAC,Fashion,7838,14
+2026-01,B07,Singapore Orchard,APAC,Fragrance & Beauty,5299,63
+2026-01,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,24480,4
+2026-01,B08,Los Angeles Rodeo,US,Fashion,24009,27
+2026-01,B08,Los Angeles Rodeo,US,Fragrance & Beauty,7133,80
+2026-01,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,5600,1
+2026-01,B09,Milan Montenapoleone,Europe,Fashion,22045,26
+2026-01,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,10422,94
+2026-01,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,25170,3
+2026-01,B10,Hong Kong Landmark,APAC,Fashion,16255,24
+2026-01,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,8891,90
+2026-01,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,28300,4
+2026-01,B11,Osaka Shinsaibashi,Japan,Fashion,18108,19
+2026-01,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,6611,55
+2026-01,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,13330,2
+2026-01,B12,Geneva Rues-Basses,Swiss & Others,Fashion,17599,21
+2026-01,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,6852,73
+2026-01,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,32230,5
+2026-02,B01,Paris Faubourg,Europe,Fashion,28430,32
+2026-02,B01,Paris Faubourg,Europe,Fragrance & Beauty,14092,116
+2026-02,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,55900,6
+2026-02,B02,London Mayfair,UK,Fashion,19910,25
+2026-02,B02,London Mayfair,UK,Fragrance & Beauty,12194,115
+2026-02,B02,London Mayfair,UK,Watches & Fine Jewelry,25000,4
+2026-02,B03,Lyon Presqu'île,Europe,Fashion,12980,14
+2026-02,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5189,41
+2026-02,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,5600,1
+2026-02,B04,Tokyo Ginza,Japan,Fashion,32680,27
+2026-02,B04,Tokyo Ginza,Japan,Fragrance & Beauty,17754,130
+2026-02,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,45000,5
+2026-02,B05,New York Madison,US,Fashion,49350,36
+2026-02,B05,New York Madison,US,Fragrance & Beauty,20370,149
+2026-02,B05,New York Madison,US,Watches & Fine Jewelry,44500,6
+2026-02,B06,Dubai Mall,Swiss & Others,Fashion,14040,19
+2026-02,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,12228,93
+2026-02,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,8900,1
+2026-02,B07,Singapore Orchard,APAC,Fashion,22260,24
+2026-02,B07,Singapore Orchard,APAC,Fragrance & Beauty,4985,41
+2026-02,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,6900,1
+2026-02,B08,Los Angeles Rodeo,US,Fashion,21560,19
+2026-02,B08,Los Angeles Rodeo,US,Fragrance & Beauty,7980,69
+2026-02,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,14500,2
+2026-02,B09,Milan Montenapoleone,Europe,Fashion,20660,16
+2026-02,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,6909,60
+2026-02,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,25000,2
+2026-02,B10,Hong Kong Landmark,APAC,Fashion,25950,20
+2026-02,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,10039,83
+2026-02,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,31200,4
+2026-02,B11,Osaka Shinsaibashi,Japan,Fashion,10970,10
+2026-02,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,6120,52
+2026-02,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,8900,1
+2026-02,B12,Geneva Rues-Basses,Swiss & Others,Fashion,12320,9
+2026-02,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,6032,54
+2026-02,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,33900,3
+2026-03,B01,Paris Faubourg,Europe,Fashion,28030,45
+2026-03,B01,Paris Faubourg,Europe,Fragrance & Beauty,20933,152
+2026-03,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,89200,9
+2026-03,B02,London Mayfair,UK,Fashion,29940,35
+2026-03,B02,London Mayfair,UK,Fragrance & Beauty,14255,119
+2026-03,B02,London Mayfair,UK,Watches & Fine Jewelry,64000,10
+2026-03,B03,Lyon Presqu'île,Europe,Fashion,17800,21
+2026-03,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5168,52
+2026-03,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,21400,2
+2026-03,B04,Tokyo Ginza,Japan,Fashion,12600,16
+2026-03,B04,Tokyo Ginza,Japan,Fragrance & Beauty,10213,87
+2026-03,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,48500,7
+2026-03,B05,New York Madison,US,Fashion,32160,38
+2026-03,B05,New York Madison,US,Fragrance & Beauty,22306,180
+2026-03,B05,New York Madison,US,Watches & Fine Jewelry,83800,13
+2026-03,B06,Dubai Mall,Swiss & Others,Fashion,30340,34
+2026-03,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,13826,119
+2026-03,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,75500,8
+2026-03,B07,Singapore Orchard,APAC,Fashion,18930,22
+2026-03,B07,Singapore Orchard,APAC,Fragrance & Beauty,8928,81
+2026-03,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,52100,7
+2026-03,B08,Los Angeles Rodeo,US,Fashion,15630,15
+2026-03,B08,Los Angeles Rodeo,US,Fragrance & Beauty,11183,86
+2026-03,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,22300,3
+2026-03,B09,Milan Montenapoleone,Europe,Fashion,21250,28
+2026-03,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,11953,92
+2026-03,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,15300,3
+2026-03,B10,Hong Kong Landmark,APAC,Fashion,24630,24
+2026-03,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,11601,100
+2026-03,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,62400,9
+2026-03,B11,Osaka Shinsaibashi,Japan,Fashion,9630,8
+2026-03,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,10095,80
+2026-03,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,33200,3
+2026-03,B12,Geneva Rues-Basses,Swiss & Others,Fashion,20080,21
+2026-03,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8214,65
+2026-03,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,15800,2
+2026-04,B01,Paris Faubourg,Europe,Fashion,20850,33
+2026-04,B01,Paris Faubourg,Europe,Fragrance & Beauty,18662,155
+2026-04,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,23600,4
+2026-04,B02,London Mayfair,UK,Fashion,41390,38
+2026-04,B02,London Mayfair,UK,Fragrance & Beauty,11791,101
+2026-04,B02,London Mayfair,UK,Watches & Fine Jewelry,43000,5
+2026-04,B03,Lyon Presqu'île,Europe,Fashion,28550,33
+2026-04,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7814,65
+2026-04,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,67300,8
+2026-04,B04,Tokyo Ginza,Japan,Fashion,56540,48
+2026-04,B04,Tokyo Ginza,Japan,Fragrance & Beauty,16293,138
+2026-04,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,54800,7
+2026-04,B05,New York Madison,US,Fashion,39360,38
+2026-04,B05,New York Madison,US,Fragrance & Beauty,21556,181
+2026-04,B05,New York Madison,US,Watches & Fine Jewelry,78800,10
+2026-04,B06,Dubai Mall,Swiss & Others,Fashion,27710,36
+2026-04,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,17518,143
+2026-04,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,44600,6
+2026-04,B07,Singapore Orchard,APAC,Fashion,30620,22
+2026-04,B07,Singapore Orchard,APAC,Fragrance & Beauty,10472,81
+2026-04,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,22900,3
+2026-04,B08,Los Angeles Rodeo,US,Fashion,32100,29
+2026-04,B08,Los Angeles Rodeo,US,Fragrance & Beauty,11933,97
+2026-04,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,42900,6
+2026-04,B09,Milan Montenapoleone,Europe,Fashion,20020,19
+2026-04,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,8218,77
+2026-04,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,46500,7
+2026-04,B10,Hong Kong Landmark,APAC,Fashion,15830,18
+2026-04,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,12603,104
+2026-04,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,36800,4
+2026-04,B11,Osaka Shinsaibashi,Japan,Fashion,13120,11
+2026-04,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,9697,68
+2026-04,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,40800,4
+2026-04,B12,Geneva Rues-Basses,Swiss & Others,Fashion,20270,14
+2026-04,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8400,68
+2026-04,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,12500,1
+2026-05,B01,Paris Faubourg,Europe,Fashion,42720,39
+2026-05,B01,Paris Faubourg,Europe,Fragrance & Beauty,23916,195
+2026-05,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,25100,5
+2026-05,B02,London Mayfair,UK,Fashion,39840,36
+2026-05,B02,London Mayfair,UK,Fragrance & Beauty,18078,131
+2026-05,B02,London Mayfair,UK,Watches & Fine Jewelry,66400,8
+2026-05,B03,Lyon Presqu'île,Europe,Fashion,9830,11
+2026-05,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,7669,58
+2026-05,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,24300,3
+2026-05,B04,Tokyo Ginza,Japan,Fashion,40950,54
+2026-05,B04,Tokyo Ginza,Japan,Fragrance & Beauty,24570,178
+2026-05,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,108500,13
+2026-05,B05,New York Madison,US,Fashion,46050,42
+2026-05,B05,New York Madison,US,Fragrance & Beauty,21082,184
+2026-05,B05,New York Madison,US,Watches & Fine Jewelry,52000,6
+2026-05,B06,Dubai Mall,Swiss & Others,Fashion,33770,33
+2026-05,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,16231,133
+2026-05,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,53500,8
+2026-05,B07,Singapore Orchard,APAC,Fashion,33960,35
+2026-05,B07,Singapore Orchard,APAC,Fragrance & Beauty,14371,96
+2026-05,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,19400,2
+2026-05,B08,Los Angeles Rodeo,US,Fashion,36850,33
+2026-05,B08,Los Angeles Rodeo,US,Fragrance & Beauty,13742,109
+2026-05,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,69800,6
+2026-05,B09,Milan Montenapoleone,Europe,Fashion,36520,32
+2026-05,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,12645,107
+2026-05,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,49700,5
+2026-05,B10,Hong Kong Landmark,APAC,Fashion,24200,18
+2026-05,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,15252,118
+2026-05,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,16700,3
+2026-05,B11,Osaka Shinsaibashi,Japan,Fashion,16950,18
+2026-05,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,11413,82
+2026-05,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,21400,2
+2026-05,B12,Geneva Rues-Basses,Swiss & Others,Fashion,14790,19
+2026-05,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,11746,100
+2026-05,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,25600,3
+2026-06,B01,Paris Faubourg,Europe,Fashion,39510,43
+2026-06,B01,Paris Faubourg,Europe,Fragrance & Beauty,18921,155
+2026-06,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,78800,9
+2026-06,B02,London Mayfair,UK,Fashion,28700,26
+2026-06,B02,London Mayfair,UK,Fragrance & Beauty,12838,112
+2026-06,B02,London Mayfair,UK,Watches & Fine Jewelry,30300,4
+2026-06,B03,Lyon Presqu'île,Europe,Fashion,7480,11
+2026-06,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,10203,76
+2026-06,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,71100,9
+2026-06,B04,Tokyo Ginza,Japan,Fashion,48550,39
+2026-06,B04,Tokyo Ginza,Japan,Fragrance & Beauty,21751,184
+2026-06,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,59000,9
+2026-06,B05,New York Madison,US,Fashion,56410,44
+2026-06,B05,New York Madison,US,Fragrance & Beauty,24601,199
+2026-06,B05,New York Madison,US,Watches & Fine Jewelry,55500,8
+2026-06,B06,Dubai Mall,Swiss & Others,Fashion,41780,40
+2026-06,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,15902,125
+2026-06,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,49700,6
+2026-06,B07,Singapore Orchard,APAC,Fashion,21700,21
+2026-06,B07,Singapore Orchard,APAC,Fragrance & Beauty,9010,74
+2026-06,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,33200,4
+2026-06,B08,Los Angeles Rodeo,US,Fashion,22960,16
+2026-06,B08,Los Angeles Rodeo,US,Fragrance & Beauty,12573,106
+2026-06,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,58000,4
+2026-06,B09,Milan Montenapoleone,Europe,Fashion,31640,31
+2026-06,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9922,87
+2026-06,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,25700,3
+2026-06,B10,Hong Kong Landmark,APAC,Fashion,29390,32
+2026-06,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,15376,126
+2026-06,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,28400,5
+2026-06,B11,Osaka Shinsaibashi,Japan,Fashion,9110,11
+2026-06,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,9863,79
+2026-06,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,24300,3
+2026-06,B12,Geneva Rues-Basses,Swiss & Others,Fashion,16340,21
+2026-06,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,12037,112
+2026-06,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,33900,4
+2026-07,B01,Paris Faubourg,Europe,Fashion,41110,61
+2026-07,B01,Paris Faubourg,Europe,Fragrance & Beauty,13880,142
+2026-07,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,18240,4
+2026-07,B02,London Mayfair,UK,Fashion,37872,40
+2026-07,B02,London Mayfair,UK,Fragrance & Beauty,14399,129
+2026-07,B02,London Mayfair,UK,Watches & Fine Jewelry,57930,8
+2026-07,B03,Lyon Presqu'île,Europe,Fashion,15967,13
+2026-07,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5478,61
+2026-07,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,15800,2
+2026-07,B04,Tokyo Ginza,Japan,Fashion,40038,38
+2026-07,B04,Tokyo Ginza,Japan,Fragrance & Beauty,17386,149
+2026-07,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,81590,11
+2026-07,B05,New York Madison,US,Fashion,32374,46
+2026-07,B05,New York Madison,US,Fragrance & Beauty,16837,177
+2026-07,B05,New York Madison,US,Watches & Fine Jewelry,40660,7
+2026-07,B06,Dubai Mall,Swiss & Others,Fashion,19115,19
+2026-07,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,13344,132
+2026-07,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,39490,6
+2026-07,B07,Singapore Orchard,APAC,Fashion,13007,16
+2026-07,B07,Singapore Orchard,APAC,Fragrance & Beauty,6644,70
+2026-07,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,30300,3
+2026-07,B08,Los Angeles Rodeo,US,Fashion,20633,24
+2026-07,B08,Los Angeles Rodeo,US,Fragrance & Beauty,8863,97
+2026-07,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,18690,3
+2026-07,B09,Milan Montenapoleone,Europe,Fashion,15199,20
+2026-07,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,9987,96
+2026-07,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,16980,2
+2026-07,B10,Hong Kong Landmark,APAC,Fashion,26903,34
+2026-07,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,9685,96
+2026-07,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,16870,3
+2026-07,B11,Osaka Shinsaibashi,Japan,Fashion,8533,14
+2026-07,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,8627,83
+2026-07,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,11250,1
+2026-07,B12,Geneva Rues-Basses,Swiss & Others,Fashion,15112,12
+2026-07,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8733,81
+2026-07,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,37700,5
+2026-08,B01,Paris Faubourg,Europe,Fashion,30060,36
+2026-08,B01,Paris Faubourg,Europe,Fragrance & Beauty,15185,126
+2026-08,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,34500,4
+2026-08,B02,London Mayfair,UK,Fashion,32870,33
+2026-08,B02,London Mayfair,UK,Fragrance & Beauty,16725,119
+2026-08,B02,London Mayfair,UK,Watches & Fine Jewelry,45000,6
+2026-08,B03,Lyon Presqu'île,Europe,Fashion,5310,6
+2026-08,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5031,37
+2026-08,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,6900,1
+2026-08,B04,Tokyo Ginza,Japan,Fashion,49320,42
+2026-08,B04,Tokyo Ginza,Japan,Fragrance & Beauty,18403,148
+2026-08,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,34800,5
+2026-08,B05,New York Madison,US,Fashion,65240,46
+2026-08,B05,New York Madison,US,Fragrance & Beauty,15912,127
+2026-08,B05,New York Madison,US,Watches & Fine Jewelry,29200,3
+2026-08,B06,Dubai Mall,Swiss & Others,Fashion,33530,31
+2026-08,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,12539,97
+2026-08,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,20900,4
+2026-08,B07,Singapore Orchard,APAC,Fashion,11350,10
+2026-08,B07,Singapore Orchard,APAC,Fragrance & Beauty,12521,110
+2026-08,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,8400,2
+2026-08,B08,Los Angeles Rodeo,US,Fashion,16080,13
+2026-08,B08,Los Angeles Rodeo,US,Fragrance & Beauty,11864,92
+2026-08,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,49300,6
+2026-08,B09,Milan Montenapoleone,Europe,Fashion,11760,6
+2026-08,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,7861,69
+2026-08,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,42300,7
+2026-08,B10,Hong Kong Landmark,APAC,Fashion,22750,26
+2026-08,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,11280,99
+2026-08,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,56300,7
+2026-08,B11,Osaka Shinsaibashi,Japan,Fashion,35560,19
+2026-08,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7974,61
+2026-08,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,17300,3
+2026-08,B12,Geneva Rues-Basses,Swiss & Others,Fashion,11240,16
+2026-08,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,11771,92
+2026-08,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,28300,3
+2026-09,B01,Paris Faubourg,Europe,Fashion,51320,47
+2026-09,B01,Paris Faubourg,Europe,Fragrance & Beauty,18564,143
+2026-09,B01,Paris Faubourg,Europe,Watches & Fine Jewelry,52200,7
+2026-09,B02,London Mayfair,UK,Fashion,32120,33
+2026-09,B02,London Mayfair,UK,Fragrance & Beauty,17456,138
+2026-09,B02,London Mayfair,UK,Watches & Fine Jewelry,73300,9
+2026-09,B03,Lyon Presqu'île,Europe,Fashion,20810,14
+2026-09,B03,Lyon Presqu'île,Europe,Fragrance & Beauty,5604,47
+2026-09,B03,Lyon Presqu'île,Europe,Watches & Fine Jewelry,5600,1
+2026-09,B04,Tokyo Ginza,Japan,Fashion,55820,53
+2026-09,B04,Tokyo Ginza,Japan,Fragrance & Beauty,20540,168
+2026-09,B04,Tokyo Ginza,Japan,Watches & Fine Jewelry,27000,4
+2026-09,B05,New York Madison,US,Fashion,64420,62
+2026-09,B05,New York Madison,US,Fragrance & Beauty,21975,186
+2026-09,B05,New York Madison,US,Watches & Fine Jewelry,50100,7
+2026-09,B06,Dubai Mall,Swiss & Others,Fashion,34360,30
+2026-09,B06,Dubai Mall,Swiss & Others,Fragrance & Beauty,18323,149
+2026-09,B06,Dubai Mall,Swiss & Others,Watches & Fine Jewelry,39500,4
+2026-09,B07,Singapore Orchard,APAC,Fashion,18320,9
+2026-09,B07,Singapore Orchard,APAC,Fragrance & Beauty,9671,82
+2026-09,B07,Singapore Orchard,APAC,Watches & Fine Jewelry,47000,5
+2026-09,B08,Los Angeles Rodeo,US,Fashion,41540,41
+2026-09,B08,Los Angeles Rodeo,US,Fragrance & Beauty,13707,119
+2026-09,B08,Los Angeles Rodeo,US,Watches & Fine Jewelry,31800,4
+2026-09,B09,Milan Montenapoleone,Europe,Fashion,24490,28
+2026-09,B09,Milan Montenapoleone,Europe,Fragrance & Beauty,13288,95
+2026-09,B09,Milan Montenapoleone,Europe,Watches & Fine Jewelry,68400,8
+2026-09,B10,Hong Kong Landmark,APAC,Fashion,23000,24
+2026-09,B10,Hong Kong Landmark,APAC,Fragrance & Beauty,17179,135
+2026-09,B10,Hong Kong Landmark,APAC,Watches & Fine Jewelry,28400,5
+2026-09,B11,Osaka Shinsaibashi,Japan,Fashion,27090,20
+2026-09,B11,Osaka Shinsaibashi,Japan,Fragrance & Beauty,7208,59
+2026-09,B11,Osaka Shinsaibashi,Japan,Watches & Fine Jewelry,48400,4
+2026-09,B12,Geneva Rues-Basses,Swiss & Others,Fashion,14440,21
+2026-09,B12,Geneva Rues-Basses,Swiss & Others,Fragrance & Beauty,8959,74
+2026-09,B12,Geneva Rues-Basses,Swiss & Others,Watches & Fine Jewelry,38100,4

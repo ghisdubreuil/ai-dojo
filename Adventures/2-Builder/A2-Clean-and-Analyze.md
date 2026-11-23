@@ -2,6 +2,8 @@
 
 **Duration: 45–60 min · Copilot modes: Ask, then Plan → Agent in small steps · Python (Copilot writes, you review)**
 
+> **Data:** you now work on the full raw file `data/sales.csv` (more than 21,000 rows). Do not paste it into the chat: let Copilot write a script that processes it.
+
 ## Context
 Management wants reliable revenue per store, region and division, month by month. But `data/sales.csv` is dirty. You will produce a **repeatable script** rather than a one-off manual calculation.
 
