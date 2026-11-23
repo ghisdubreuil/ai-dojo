@@ -1,9 +1,12 @@
 # Facilitator guide
 
+## Before the day
+See the checklist for facilitators in [`docs/00-prerequisites.md`](./docs/00-prerequisites.md#7-for-the-facilitator-before-the-day): seats, Codespaces, fork or template, a dry run.
+
 ## Recommended format: 3-hour dojo (8–20 people)
 | Time | Session |
 |---|---|
-| 0:00–0:20 | Welcome, goals. Walk through the [introduction to Copilot](./docs/00-getting-started-with-copilot.md), then everyone follows the [click-by-click setup](./docs/01-setup-click-by-click.md) (Parts 1 to 4) |
+| 0:00–0:20 | Welcome, goals. Walk through the [introduction to Copilot](./docs/01-getting-started-with-copilot.md), then everyone follows the [click-by-click setup](./docs/02-setup-click-by-click.md) (Parts 1 to 4) |
 | 0:20–0:35 | [Warm-up adventure](./Adventures/StartHere.md) together |
 | 0:35–1:15 | Round 1: everyone picks a track (A/B/C) and a level |
 | 1:15–1:30 | Break + 2 participant demos |

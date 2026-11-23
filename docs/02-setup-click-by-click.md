@@ -2,6 +2,8 @@
 
 Do this once, before any adventure. Nothing to install on your computer: everything runs in your web browser.
 
+> **Prerequisite:** you must already have your own copy of the repository and Copilot access. If not, do the [prerequisites](./00-prerequisites.md) first. If your Codespace is already open and Copilot answered "Hello", skip to **Part 2**.
+
 > **About this guide.** Buttons and labels in VS Code and GitHub change from time to time. Every step has a **✅ You should see** check and a **🆘 If not** fallback. If your screen differs slightly, look for the closest match, or ask your facilitator.
 > **Convention:** **bold** = something to click or a label on screen. `code style` = something to type or copy-paste exactly.
 
@@ -9,7 +11,7 @@ Do this once, before any adventure. Nothing to install on your computer: everyth
 
 ## Part 1 — Open your workspace (Codespace)
 
-1. Open this repository's page in your web browser: `https://github.com/ghisdubreuil/ai-dojo`.
+1. Open **your own copy** of the repository in your web browser: `https://github.com/YOUR-USERNAME/ai-dojo` (the fork you created in the [prerequisites](./00-prerequisites.md)).
    - ✅ You should see the repository name at the top left and a list of files and folders (`Adventures`, `data`, `docs`…).
    - 🆘 If you see a "404" or "Not found": you are probably not signed in to GitHub. Click **Sign in** (top right), then reload the page.
 2. Find the green button labelled **Code**, at the top right of the file list. Click it.

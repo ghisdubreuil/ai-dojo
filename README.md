@@ -5,10 +5,11 @@ A GitHub Copilot dojo for **non-technical people**, built around realistic busin
 > Maison Orélia is a **fictional** luxury house. All data is synthetic.
 
 ## Start here
-1. Read the [15-minute introduction to GitHub Copilot](./docs/00-getting-started-with-copilot.md).
-2. Follow the [click-by-click setup guide](./docs/01-setup-click-by-click.md) to open your Codespace and Copilot Chat (nothing to install).
-3. Do the [warm-up adventure](./Adventures/StartHere.md).
-4. Pick a track and a level. Discovery adventures are written step by step, click by click.
+1. Check the [prerequisites](./docs/00-prerequisites.md) and create **your own copy** of the repo (fork). Do it a day before.
+2. Read the [15-minute introduction to GitHub Copilot](./docs/01-getting-started-with-copilot.md).
+3. Follow the [click-by-click setup guide](./docs/02-setup-click-by-click.md) to open your Codespace and Copilot Chat (nothing to install).
+4. Do the [warm-up adventure](./Adventures/StartHere.md).
+5. Pick a track and a level. Discovery adventures are written step by step, click by click.
 
 ## The fictional organisation
 **3 divisions** (Fashion · Fragrance & Beauty · Watches & Fine Jewelry) × **6 regions** (UK · US · APAC · Japan · Europe · Swiss & Others). Details in [`docs/organisation.md`](./docs/organisation.md).
@@ -23,7 +24,7 @@ A GitHub Copilot dojo for **non-technical people**, built around realistic busin
 Each track follows the same thread: **understand → build → industrialise**.
 
 ## Contents
-- `docs/`: Copilot introduction, click-by-click setup, organisation, current process, knowledge base (with deliberately contradictory versions)
+- `docs/`: prerequisites, Copilot introduction, click-by-click setup, organisation, current process, knowledge base (with deliberately contradictory versions)
 - `Adventures/`: the 9 adventures + the warm-up
 - `data/`: raw sales (12 stores), a clean monthly summary, a small dirty sample, products (23 items, 3 divisions), stores (6 regions), support tickets — fictional, with deliberate anomalies
 - `my-work/`: your working folder

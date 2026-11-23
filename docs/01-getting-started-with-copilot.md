@@ -97,4 +97,4 @@ This repository already includes a `.github/copilot-instructions.md`. Open it, t
 - Prompt = **Goal + Context + Constraints + Format**.
 - Always: **method, cross-check, review**.
 
-Next: follow the [click-by-click setup guide](./01-setup-click-by-click.md), then start the [warm-up adventure](../Adventures/StartHere.md).
+Next: follow the [click-by-click setup guide](./02-setup-click-by-click.md), then start the [warm-up adventure](../Adventures/StartHere.md).

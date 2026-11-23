@@ -2,7 +2,7 @@
 
 **Duration: 15 min · Level: everyone · No coding knowledge required · Mode: Ask**
 
-**Before you start:** your Codespace is open and you did [the setup guide](../docs/01-setup-click-by-click.md) (at least Parts 1 to 4). If you have not read the [introduction to Copilot](../docs/00-getting-started-with-copilot.md), do it now (5 min).
+**Before you start:** you completed the [prerequisites](../docs/00-prerequisites.md), your Codespace is open and you did [the setup guide](../docs/02-setup-click-by-click.md) (at least Parts 1 to 4). If you have not read the [introduction to Copilot](../docs/01-getting-started-with-copilot.md), do it now (5 min).
 
 ## Context
 Welcome to **Maison Orélia**, a fictional luxury house. You are a newcomer and you are handed files you have never seen. Your mission: tame your copilot.
