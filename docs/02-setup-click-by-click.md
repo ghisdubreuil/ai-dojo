@@ -1,6 +1,6 @@
 # App tour, click by click (15 minutes)
 
-Do this on the day of the dojo, once. It assumes you completed the [prerequisites](./00-prerequisites.md): the app is installed, you are signed in, and your copy of the project (`ai-dojo`) is added.
+Do this on the day of the dojo, once. It assumes you completed the [prerequisites](./00-prerequisites.md): the app is installed, you are signed in, and the project (`ai-dojo`) is added.
 
 > **About this guide.** Labels in the app can change. Every step has a **✅ You should see** check and a **🆘 If not** fallback. If your screen differs slightly, look for the closest match, or ask your facilitator.
 > **Convention:** **bold** = something to click or a label on screen. `code style` = something to type or copy-paste exactly.

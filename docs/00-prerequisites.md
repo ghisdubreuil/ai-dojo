@@ -1,6 +1,6 @@
-# Prerequisites: install the app and get your copy of the project
+# Prerequisites: install the app and open the project
 
-**Do this at least one day before the dojo (20 minutes).** You will install **one program** (the GitHub Copilot app), sign in with your **company login (SSO)**, and create your own copy of this project. Your company provides your GitHub account and your Copilot access.
+**Do this at least one day before the dojo (20 minutes).** You will install **one program** (the GitHub Copilot app), and sign in with your **company login (SSO)**. That is all: you do not need to create any account. Your company provides your access and your Copilot licence.
 
 ## 1. The checklist
 | ☐ | You need | How to check |
@@ -8,18 +8,16 @@
 | ☐ | A **computer** running **Windows, macOS or Linux** on which you are allowed to install the app | Ask IT if the install is blocked. |
 | ☐ | Your **company login** (the one you use for your work email) and your **multi-factor method** (phone, authenticator app, security key) | You can sign in to your company email. |
 | ☐ | The **GitHub Copilot app** installed and signed in with your company login | Parts 3 and 4. |
-| ☐ | **Your own copy** of the dojo project | Part 5. |
+| ☐ | The **name of the dojo project** given by your organiser | Part 5. |
 | ☐ | The project **added to the app**, and Copilot answering a test question | Parts 6 and 7. |
 | ☐ | A stable internet connection | A video call works on it. |
 
-## 2. Three words to know
+## 2. Two words to know
 | Word | In plain English |
 |---|---|
 | **Repository (repo)** | A project folder stored on GitHub. This dojo is one repo. |
-| **Template** | A project that you can copy with one click to get **your own** version. |
 | **Clone** | A copy of a repo **on your computer**. The app does this for you in Part 6. |
 
-You cannot save changes in the original project. That is why you first create **your own copy** (Part 5).
 
 ## 3. Install the GitHub Copilot app (5 minutes, once)
 1. Download the installer for your computer (click the link, the download starts):
@@ -57,25 +55,17 @@ You cannot save changes in the original project. That is why you first create **
 - **The app asks you to choose "GitHub Enterprise Cloud" and to type an address ending in `.ghe.com`:** do it, using the address given by your organiser.
 - **Sign-in works but Copilot does not answer:** ask your organiser or IT: your company manages Copilot access.
 
-## 5. Get your own copy of the project
-Your organiser gives you a link to the dojo project hosted in your company's GitHub.
-1. Open that link in your web browser, signing in with your company login if asked.
-2. Click the green **Use this template** button, then **Create a new repository**.
-   - ✅ A page titled **Create a new repository** opens.
-3. Under **Owner**, make sure your own account is selected. Leave the name as `ai-dojo`.
-4. Click **Create repository**.
-   - ✅ After a few seconds you land on your own copy, at an address like `https://github.com/YOUR-USERNAME/ai-dojo`.
-5. **Bookmark this page.**
-   - 🆘 If there is no **Use this template** button, your organiser has already created a copy for you: ask for its link and use that one.
+## 5. Get the project name
+Your organiser tells you the name of the dojo project (`ai-dojo`) in your company's GitHub. Nothing to create, nothing to sign up for: you will add it to the app in the next part.
 
 ## 6. Add the project to the app
 1. Open the GitHub Copilot app.
 2. In the **sidebar** on the left, find the section **Sessions**. Click the small **add** control next to it (usually a **+** icon).
 3. In the menu, click **Add GitHub repository**.
    - ✅ A list of repositories appears.
-4. Click your copy (`ai-dojo`) and confirm to **clone** it.
+4. Click `ai-dojo` (the project named by your organiser) and confirm to **clone** it.
    - ✅ The project appears under **Sessions** in the sidebar.
-   - 🆘 If it is not in the list: use the same menu, choose **Clone repository**, paste the address of your copy and confirm.
+   - 🆘 If it is not in the list: use the same menu, choose **Clone repository**, paste the project address given by your organiser and confirm.
 
 ## 7. Test that everything works
 1. In the sidebar, click the **new session** control next to **Sessions** (usually a **+**), then, under **Start session in**, click `ai-dojo`.
@@ -99,16 +89,16 @@ The Builder and Expert adventures ask Copilot to write and run small Python scri
 | "Sign in" opens a browser but nothing happens | Return to the app after authorising, and wait 10 seconds. If it still fails, quit and reopen the app. |
 | Browser shows a 404 page during sign-in | Another GitHub account is open in that browser. Sign out of GitHub or use a private window, and restart. |
 | The company login works but the app says no access | Your company has not enabled Copilot or the app for your account. Ask the organiser or IT. |
-| Your copy is not listed under **Add GitHub repository** | Use **Clone repository** with the address of your copy. |
+| The project is not listed under **Add GitHub repository** | Use **Clone repository** with the address given by your organiser. |
 | An error mentions "git" | The app needs **Git** on the computer. Ask IT to install it, then restart the app. |
 | A company login screen asks you to authorise | Click **Authorize** and sign in with your company credentials. |
 
 ## 10. For the facilitator: before the day
 - ☐ Check with IT that every participant's **company GitHub account** can sign in to the **GitHub Copilot app** with SSO, that **Copilot access** is enabled for them, and that the organisation's **GitHub Copilot app** policy is on.
 - ☐ Check that participants may **install software**, and ask IT in advance to approve the app (the app also needs **Git** on the computer; check that it is present on your standard laptops).
-- ☐ Put a copy of the project inside your company's GitHub: on GitHub, click **+ → Import repository**, enter `https://github.com/ghisdubreuil/ai-dojo` as the source, and create it in your organisation (or clone it and push it to a new repository there).
-- ☐ Make that repository a **template**: **Settings → Template repository**. Send the link to participants. (Alternatively create one copy per participant.)
-- ☐ For adventure C3: enable **Issues** on the copy (repo **Settings → General → Features → Issues**), or create one issue per participant.
+- ☐ Put the project inside your company's GitHub: on GitHub, click **+ → Import repository**, enter `https://github.com/ghisdubreuil/ai-dojo` as the source, and create it in your organisation (or clone it and push it to a new repository there).
+- ☐ Give every participant access to it (write access), and send them its name and address. No participant needs to create an account.
+- ☐ For adventure C3: enable **Issues** on the repository (repo **Settings → General → Features → Issues**), or create one issue per participant.
 - ☐ Ask everyone to complete Parts 3 to 7 **one day before**, and to reply "OK" once Copilot answered "Hello". Fix blockers early.
 - ☐ Do a full dry run on **each operating system** in the room (Windows and macOS) with a real company account, and note any label that differs.
 - ☐ Prepare a backup plan: pair people who cannot install with a neighbour.

@@ -98,7 +98,7 @@ This project already includes `.github/copilot-instructions.md`. Open it with yo
 ## 9. If something does not work
 | Problem | Try |
 |---|---|
-| The app says you are not signed in | Sign in again with the GitHub account that has Copilot. |
+| The app says you are not signed in | Sign in again with your company login (SSO). |
 | Answers ignore your files | Add them with `@` and name them in your sentence. |
 | The answer is too long or vague | Add constraints and a format ("5 bullet points, no jargon"). |
 | It went in the wrong direction | Start a **new session**, restate your goal with what you learned. |

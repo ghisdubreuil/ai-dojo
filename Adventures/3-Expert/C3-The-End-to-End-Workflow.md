@@ -2,7 +2,7 @@
 
 **Duration: 90–120 min · Modes: Plan, then Autopilot (or Interactive) · Python + GitHub**
 
-**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)), and **Issues** must be enabled on your copy (repo **Settings → General → Features → Issues**) or your facilitator must have created one for you.
+**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)), and **Issues** must be enabled on the project (repo **Settings → General → Features → Issues**) or your facilitator must have created one for you.
 
 ## Context
 You mapped the process (C1), sorted tickets (C2) and built a rule base (B2/B3). Now **assemble** it: from the incoming ticket to a draft reply, with a human at the right place.
@@ -18,7 +18,7 @@ Get Copilot to design and implement a pipeline `my-work/support_pipeline.py`:
 7. No reply is ever "sent": **human validation** is mandatory (`status = to_validate`).
 
 Then, with GitHub:
-8. On your copy's page in your company's GitHub, open **Issues → New issue**. Describe an improvement (e.g. a new "gift" category) and create it.
+8. On the project's page in your company's GitHub, open **Issues → New issue**. Describe an improvement (e.g. a new "gift" category) and create it.
 9. In the app, click **Issues** in the sidebar, find your issue and **start a session** from it.
 10. When Copilot is done, review **Changes**, then click **Create PR**, then **PR** above the prompt box to read the pull request in the app. Leave at least one reasoned review comment.
 
