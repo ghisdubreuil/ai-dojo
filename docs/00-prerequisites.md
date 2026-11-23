@@ -1,6 +1,6 @@
 # Prerequisites: install the app and get your own copy of the project
 
-**Do this at least one day before the dojo (30 minutes).** You will install two programs on your computer (Git and the GitHub Copilot app), sign in, and get your own copy of this project.
+**Do this at least one day before the dojo (20 minutes).** You will install **one program** (the GitHub Copilot app), sign in, and get your own copy of this project.
 
 ## 1. The checklist
 | ☐ | You need | How to check |
@@ -8,10 +8,9 @@
 | ☐ | A **computer** running **Windows, macOS or Linux** that you are allowed to install software on | Ask your IT team if the install is blocked. |
 | ☐ | A **GitHub account** | You can sign in at https://github.com. No account yet? Click **Sign up** (free). |
 | ☐ | **Access to GitHub Copilot** (a plan, or your own model provider) | See "About Copilot access" below. |
-| ☐ | **Git** installed | Part 3. |
-| ☐ | The **GitHub Copilot app** installed and signed in (personal or company account) | Parts 3b and 3c. |
-| ☐ | **Your own copy** (a "fork") of the dojo project | Part 4. |
-| ☐ | The project **added to the app**, and Copilot answering a test question | Parts 5 and 6. |
+| ☐ | The **GitHub Copilot app** installed and signed in (personal or company account) | Parts 3 and 4. |
+| ☐ | **Your own copy** (a "fork") of the dojo project | Part 5. |
+| ☐ | The project **added to the app**, and Copilot answering a test question | Parts 6 and 7. |
 | ☐ | A stable internet connection | A video call works on it. |
 
 ### About Copilot access
@@ -25,25 +24,11 @@
 |---|---|
 | **Repository (repo)** | A project folder stored on GitHub. This dojo is one repo. |
 | **Fork** | Your **own copy** of someone else's repo, on your GitHub account. You can change it freely. |
-| **Clone** | A copy of a repo **on your computer**. The app does this for you in Part 5. |
+| **Clone** | A copy of a repo **on your computer**. The app does this for you in Part 6. |
 
-You cannot save changes in the original project. That is why you first create **your own copy** (Part 4).
+You cannot save changes in the original project. That is why you first create **your own copy** (Part 5).
 
-## 3. Install Git (5 minutes, once)
-The app needs **Git** on your computer. Check first: if you already have it, skip this part.
-1. Open a terminal:
-   - **Windows:** click the Start menu, type `cmd`, and press **Enter**.
-   - **macOS:** press `Command + Space`, type `Terminal`, and press **Enter**.
-2. Type `git --version` and press **Enter**.
-   - ✅ If you see a version number such as `git version 2.x.x`: Git is installed. Skip to Part 3b.
-   - If you see "command not found" or "not recognized": install it.
-3. Install Git:
-   - **Windows:** go to https://git-scm.com/downloads, click **Windows**, run the downloaded installer, and click **Next** on every screen (the default options are fine), then **Install** and **Finish**.
-   - **macOS:** the terminal may offer to install the developer tools when you type `git --version`: click **Install** and wait. Otherwise, download Git from https://git-scm.com/downloads.
-4. **Close the terminal and open a new one**, type `git --version` again.
-   - ✅ A version number appears.
-
-## 3b. Install the GitHub Copilot app (5 minutes, once)
+## 3. Install the GitHub Copilot app (5 minutes, once)
 1. Download the installer for your computer (click the link, the download starts):
 
    | Your computer | Download |
@@ -63,9 +48,9 @@ The app needs **Git** on your computer. Check first: if you already have it, ski
    - 🆘 If your computer blocks the install (company restrictions): ask IT to allow it, or ask the organiser for a loaner computer.
 3. Open the **GitHub Copilot** app.
    - ✅ A welcome screen with a **Sign in to GitHub** button appears.
-4. Sign in. **Choose the case that matches you in Part 3c** (personal account or company account).
+4. Sign in. **Choose the case that matches you in Part 4** (personal account or company account).
 
-## 3c. Sign in: personal account or company account
+## 4. Sign in: personal account or company account
 First, find out which kind of GitHub account you have. Ask your IT team or the organiser if unsure.
 
 | If… | You are in case |
@@ -114,7 +99,7 @@ In the app's sign-in flow you can choose to sign up, or to use **your own model 
 
 > **Important for companies:** the organisation's administrator must keep the **GitHub Copilot app** policy enabled (it is on by default), and your account must have a Copilot seat. Without them the app will open but Copilot will not answer.
 
-## 4. Get your own copy (fork) of the project
+## 5. Get your own copy (fork) of the project
 1. In your browser, open the dojo project: `https://github.com/ghisdubreuil/ai-dojo`. Sign in to GitHub if asked.
 2. At the top right of the page, click **Fork**.
    - ✅ A page titled **Create a new fork** opens.
@@ -127,9 +112,9 @@ In the app's sign-in flow you can choose to sign up, or to use **your own model 
 A **company-managed account** (cases B, C and D above) can usually only work with repositories **inside your company's GitHub**: it cannot fork a public project that lives on someone else's account. In that case the **organiser** must first put a copy of the project inside the company's GitHub (see "For the facilitator" below), and you either:
 - use the green **Use this template** → **Create a new repository** button on that company copy (if it is a template), or
 - use the copy the organiser created for you.
-Then continue with Part 5, picking **that** repository.
+Then continue with Part 6, picking **that** repository.
 
-## 5. Add the project to the app
+## 6. Add the project to the app
 1. Open the GitHub Copilot app.
 2. In the **sidebar** on the left, find the section **Sessions**. Click the small **add** control next to it (usually a **+** icon).
 3. In the menu, click **Add GitHub repository**.
@@ -139,41 +124,41 @@ Then continue with Part 5, picking **that** repository.
    - 🆘 If your fork is not in the list: use the same menu and choose **Clone repository**, then paste `https://github.com/YOUR-USERNAME/ai-dojo` and confirm.
    - 🆘 If you already have the folder on your computer: choose **Open local folder** and select it.
 
-## 6. Test that everything works
+## 7. Test that everything works
 1. In the sidebar, click the **new session** control next to **Sessions** (usually a **+**), then, under **Start session in**, click `ai-dojo`.
 2. Below the prompt box, check the drop-downs: **Environment** = **This computer**, **Workspace** = **Current checkout**.
 3. Click the **mode** drop-down below the prompt box and choose **Interactive**.
 4. Click in the prompt box, type `Hello! In one sentence, what is this project about?` and press **Enter**.
    - ✅ Copilot answers, and mentions a dojo, Maison Orélia, or Copilot training.
-   - 🆘 If you see an authentication error: sign in again (Part 3c).
+   - 🆘 If you see an authentication error: sign in again (Part 4).
    - 🆘 If Copilot says it has no access or no plan: ask the organiser to check your seat or your plan.
 5. **You are ready.** Stop here and continue with the [introduction to Copilot](./01-getting-started-with-copilot.md), then the [app tour](./02-setup-click-by-click.md) on the day.
 
-## 7. For Builder and Expert levels only (optional until you get there)
-The Builder and Expert adventures ask Copilot to write and run small Python scripts. Two options:
-- **Run on your computer:** install **Python 3.10 or later** from https://www.python.org/downloads/ (on Windows tick **Add python.exe to PATH** in the installer). Check with `python --version` or `python3 --version` in a terminal.
-- **Or use a cloud environment:** in the session's **Environment** drop-down, choose **Cloud**. The whole session then runs in a GitHub-hosted sandbox. Test this in your dry run before relying on it.
+## 8. For Builder and Expert levels only
+The Builder and Expert adventures ask Copilot to write and run small Python scripts. **There is nothing more to install**: in the session, set the **Environment** drop-down (below the prompt box) to **Cloud**. The whole session then runs in a GitHub-hosted sandbox instead of on your computer.
 
-## 8. Troubleshooting
+> **Facilitator:** test the **Cloud** environment in your dry run (with a company account, check that cloud sessions are allowed and that Python scripts run). If not, fall back to **This computer** with Python installed by IT.
+
+## 9. Troubleshooting
 | Problem | What to try |
 |---|---|
 | Cannot install the app (blocked) | Ask IT for permission, or use a loaner computer. |
 | "Sign in" opens a browser but nothing happens | Return to the app after authorising, and wait 10 seconds. If it still fails, quit and reopen the app. |
 | The app says you have no access | Your Copilot seat or plan is missing, or the organisation disabled the GitHub Copilot app policy. Ask the organiser. |
 | Your fork is not listed under **Add GitHub repository** | Use **Clone repository** with the URL of your fork. |
-| An error mentions "git" | Git is not installed or the terminal was not reopened. Redo Part 3, then restart the app. |
+| An error mentions "git" | The app needs **Git** on the computer. Ask IT to install it (company laptops usually have it), then restart the app. |
 | Copilot stops answering mid-dojo | You may have reached your plan's usage limit. Ask the organiser. |
 | Single sign-on (SSO) screen asks you to authorise | Click **Authorize** and sign in with your company credentials. |
 | Browser shows a 404 page during sign-in | You are signed in to the wrong GitHub account in that browser. Sign out of GitHub or use a private window, and restart the sign-in. |
 | The company login works but the app says no Copilot access | Your Copilot seat is not assigned, or the GitHub Copilot app policy is disabled. Ask the organiser or IT. |
 
-## 9. For the facilitator: before the day
+## 10. For the facilitator: before the day
 - ☐ Check that every participant has a **Copilot seat or plan** (or tell them to use their own model provider), and that the organisation's **GitHub Copilot app** policy is enabled.
-- ☐ Check that participants may **install software**. Ask IT in advance for approval of Git and the app.
+- ☐ Check that participants may **install software**, and ask IT in advance to approve the app (the app also needs **Git** on the computer; check that it is present on your standard laptops).
 - ☐ Decide: participants **fork** this repo, or you give each a copy (template: tick **Template repository** in the repo's **Settings**).
 - ☐ **Company-managed accounts cannot fork a public repository from outside the company.** Put a copy of the project inside your company's GitHub organisation first: on GitHub, click **+ → Import repository**, enter `https://github.com/ghisdubreuil/ai-dojo` as the source, and create it in your organisation (or clone it and push it to a new repository there). Then make it a **template** (**Settings → Template repository**) so each participant can create their own copy.
-- ☐ Tell participants which sign-in case applies to them (A to E in Part 3c) and, for `*.ghe.com`, the exact address.
-- ☐ Ask everyone to complete Parts 3 to 6 **one day before**, and to reply "OK" once Copilot answered "Hello". Fix blockers early.
+- ☐ Tell participants which sign-in case applies to them (A to E in Part 4) and, for `*.ghe.com`, the exact address.
+- ☐ Ask everyone to complete Parts 3 to 7 **one day before**, and to reply "OK" once Copilot answered "Hello". Fix blockers early.
 - ☐ Do a full dry run on **each operating system** in the room (Windows and macOS), and note any label that differs.
 - ☐ For Expert adventure C3, enable **Issues** on forks (repo **Settings → General → Features → Issues**), or seed one issue per participant.
 - ☐ Prepare a backup plan: pair people who cannot install with a neighbour.

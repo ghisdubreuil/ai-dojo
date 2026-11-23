@@ -2,7 +2,7 @@
 
 **Duration: 60 min · Modes: Plan, then Interactive · Python (Copilot writes and runs, you review)**
 
-**Before you start:** Python must be available (see [prerequisites, Part 7](../../docs/00-prerequisites.md#7-for-builder-and-expert-levels-only-optional-until-you-get-there)).
+**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)): nothing to install.
 
 ## Context
 Every morning, the coordinator sorts 240 tickets by hand. You will automate the sort and measure how well it works.

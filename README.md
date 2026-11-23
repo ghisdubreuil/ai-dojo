@@ -5,7 +5,7 @@ A dojo for **non-technical people** using the **GitHub Copilot desktop app**, bu
 > Maison Orélia is a **fictional** luxury house. All data is synthetic.
 
 ## Start here
-1. Do the [prerequisites](./docs/00-prerequisites.md): install Git and the **GitHub Copilot desktop app**, sign in, and fork this project. Do it a day before.
+1. Do the [prerequisites](./docs/00-prerequisites.md): install the **GitHub Copilot desktop app**, sign in (personal or company account), and fork this project. Do it a day before.
 2. Read the [15-minute introduction](./docs/01-getting-started-with-copilot.md).
 3. Follow the [app tour](./docs/02-setup-click-by-click.md).
 4. Do the [warm-up adventure](./Adventures/StartHere.md).

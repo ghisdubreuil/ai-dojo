@@ -2,7 +2,7 @@
 
 **Duration: 60 min · Modes: Plan, then Interactive · Python (Copilot writes and runs, you review)**
 
-**Before you start:** Python must be available (see [prerequisites, Part 7](../../docs/00-prerequisites.md#7-for-builder-and-expert-levels-only-optional-until-you-get-there)): installed on your computer, or the session's **Environment** set to **Cloud**.
+**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)): nothing to install.
 
 > **Data:** you now work on the full raw file `data/sales.csv` (more than 21,000 rows). Do not paste it in the prompt: let Copilot write a script that processes it.
 

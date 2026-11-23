@@ -2,7 +2,7 @@
 
 **Duration: 90 min · Modes: Plan, then Autopilot (or Interactive) · Python + tests**
 
-**Before you start:** Python must be available (see [prerequisites, Part 7](../../docs/00-prerequisites.md#7-for-builder-and-expert-levels-only-optional-until-you-get-there)).
+**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)): nothing to install.
 
 ## Context
 The retail director wants an interactive dashboard to open every Monday, with automatic alerts and the **confidence level** of the numbers on display.

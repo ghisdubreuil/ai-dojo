@@ -19,7 +19,7 @@ Do this on the day of the dojo, once. It assumes you completed the [prerequisite
    | **Issues**, **Pull requests** | Work items from GitHub (used in adventure C3). |
    | **Customize** | Skills, plugins and tools. |
 3. Under **Sessions**, check that `ai-dojo` is listed.
-   - 🆘 If not, redo Part 5 of the prerequisites.
+   - 🆘 If not, redo Part 6 of the prerequisites.
 
 ---
 

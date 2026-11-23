@@ -2,7 +2,7 @@
 
 **Duration: 90–120 min · Modes: Plan, then Autopilot (or Interactive) · Python + GitHub**
 
-**Before you start:** Python must be available (see [prerequisites, Part 7](../../docs/00-prerequisites.md#7-for-builder-and-expert-levels-only-optional-until-you-get-there)), and **Issues** must be enabled on your fork (repo **Settings → General → Features → Issues**) or your facilitator must have created one for you.
+**Before you start:** set the session's **Environment** to **Cloud** (see [prerequisites, Part 8](../../docs/00-prerequisites.md#8-for-builder-and-expert-levels-only)), and **Issues** must be enabled on your fork (repo **Settings → General → Features → Issues**) or your facilitator must have created one for you.
 
 ## Context
 You mapped the process (C1), sorted tickets (C2) and built a rule base (B2/B3). Now **assemble** it: from the incoming ticket to a draft reply, with a human at the right place.

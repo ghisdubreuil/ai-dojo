@@ -1,7 +1,7 @@
 # Facilitator guide
 
 ## Before the day
-See the checklist for facilitators in [`docs/00-prerequisites.md`](./docs/00-prerequisites.md#9-for-the-facilitator-before-the-day): seats and app policy, software installation, fork or template, a dry run on each operating system.
+See the checklist for facilitators in [`docs/00-prerequisites.md`](./docs/00-prerequisites.md#10-for-the-facilitator-before-the-day): seats and app policy, software installation, fork or template, a dry run on each operating system.
 
 ## Recommended format: 3-hour dojo (8–20 people)
 | Time | Session |
