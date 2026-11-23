@@ -1,128 +1,122 @@
 # A1 — The sales mystery 🔎 (Data · Discovery)
 
-**Duration: 40 min · Mode: Ask · No code to write**
+**Duration: 45 min · Mode: Interactive (read-only by instruction) · No code to write**
 
 ## Context
-Management asks: "What happened in our sales?" You will explore the numbers with Copilot, without writing a single line of code, and you will **check** what it tells you.
+Management asks: "What happened in our sales?" You will explore the numbers with Copilot, without writing any code, and you will **check** what it tells you.
 
-## Files used
+## Files used (in your project folder, `data/`)
 | File | What it is |
 |---|---|
-| `data/monthly_summary.csv` | Sales summarised per **month × store × division** (755 rows): `revenue_eur` and `units` (items sold). Already cleaned. |
-| `data/stores.csv` | The 12 stores and their region. |
-| `data/sales_sample.csv` | A small extract (114 rows) of the raw sales file. **It contains deliberate errors.** |
+| `monthly_summary.csv` | Sales summarised per **month × store × division** (755 rows): `revenue_eur` and `units` (items sold). Already cleaned. |
+| `stores.csv` | The 12 stores and their region. |
+| `sales_sample.csv` | A small extract (114 rows) of the raw sales file. **It contains deliberate errors.** |
 
-> **Why not the big file?** `sales.csv` has more than 21,000 rows. A chat assistant cannot reliably read that much text: it may guess instead of calculating. Giving Copilot a file of the right size is part of good practice. You will work on the big file in the Builder level.
+> **Why not the big file?** `sales.csv` has more than 21,000 rows. Adding up that many lines in conversation is where assistants slip. In this Discovery adventure we work on files of the right size. In the Builder level, Copilot writes a script to process the big file.
 
-## Quick reminders (from the setup guide)
-- **Open Chat:** click the chat icon in the title bar, or press `Ctrl + Alt + I`.
-- **Check the mode:** the drop-down at the bottom of the Chat panel must say **Ask**.
-- **New chat:** click the **+** icon at the top of the Chat panel.
-- **Give a file:** in the text box type `#`, type a few letters of the file name, click the suggestion.
+## Quick reminders
+- **New session:** **+** next to **Sessions** → `ai-dojo` → check **This computer**, **Current checkout**, **Interactive**, **Assisted**.
+- **Attach a file:** type `@`, a few letters, click the file.
+- **Open a file yourself:** your project folder → `data` → double-click the CSV.
 
 ---
 
-## Step 1 — Prepare your screen (3 min)
-1. In the **Explorer** (left), click the arrow **›** next to the folder `data`.
-2. Click `monthly_summary.csv` to open it.
-   - ✅ You see columns: `month`, `store_id`, `store_name`, `region`, `division`, `revenue_eur`, `units`.
-3. Look at the first 5 rows. Each row = one store, one division, one month.
-4. Open Copilot Chat (chat icon, top of the window).
-5. Click the drop-down at the bottom of the Chat panel and choose **Ask**.
-6. Click the **+** icon to start a new chat.
+## Step 1 — Prepare your screen (4 min)
+1. Open your project folder → `data` → double-click `monthly_summary.csv`.
+   - ✅ A spreadsheet opens with columns `month`, `store_id`, `store_name`, `region`, `division`, `revenue_eur`, `units`.
+2. Look at the first 5 rows: each row = one store, one division, one month. Keep this window open.
+3. In the app, click **+** next to **Sessions** → `ai-dojo`. Check the 4 settings.
+4. Paste and send the safety sentence:
+   ```
+   Rule for this session: do not create, modify or delete any file unless I explicitly ask you to. Answer only from the project files.
+   ```
 
-## Step 2 — Check that Copilot understood the file (3 min)
-1. Click in the text box. Type `#`, then `monthly`, and click `monthly_summary.csv` in the list.
-2. After the tag, type:
+## Step 2 — Check that Copilot understood the file (4 min)
+1. Type `@`, then `monthly`, click `monthly_summary.csv`.
+2. After it, type and send:
    ```
    Describe this file in 3 sentences: the period covered, the number of stores, and what each column means.
    ```
-3. Press **Enter**. Wait until the answer stops.
-4. Check against the file: scroll to the top and bottom of `monthly_summary.csv` in the editor.
-   - ✅ Expected: from **January 2025** to **September 2026**, **12 stores**, 3 divisions.
-   - 🆘 If Copilot gets the period wrong, tell it: `Check the first and last month again.`
+3. Check in your spreadsheet: scroll to the top and bottom of the file.
+   - ✅ Expected: **January 2025** to **September 2026**, **12 stores**, 3 divisions.
+   - 🆘 If Copilot gets it wrong, send: `Check the first and last month again.`
 
 ## Step 3 — Question 1: which stores and regions sell the most? (6 min)
-1. In the same chat, type (copy-paste is fine):
+1. Send:
    ```
-   Using #monthly_summary.csv, give me the top 3 stores and the top 2 regions by total revenue_eur over the whole period. Show the totals in a table and explain how you computed them.
+   Using @monthly_summary.csv, give me the top 3 stores and the top 2 regions by total revenue_eur over the whole period. Show the totals in a table and explain how you computed them.
    ```
-   (Type `#`, pick the file in the list, then continue the sentence.)
-2. Press **Enter** and wait.
-3. Read the table. Are the totals in euros? Does Copilot explain its method?
-4. Keep the answer in mind. Roughly, **New York Madison** should be at or near the top.
-   - ⚠️ The totals Copilot gives may differ from the real ones by a few percent. A chat assistant adding up 755 numbers can slip. This is **normal**: write down the order (1st, 2nd, 3rd) and treat exact amounts with caution.
-5. Type a follow-up to test it: `Are you sure about the total of the first store? List the rows you added up.`
-6. Observe: does it confirm, correct itself, or show the rows? This is the verification reflex.
+   (Type `@`, pick the file, then continue the sentence.)
+2. If a **permission request** appears (for example to run a calculation), read it; allow it if it only works on the project's files.
+3. Read the table. Roughly, **New York Madison** should be at or near the top.
+   - ⚠️ Treat exact amounts with caution. Note the **order** (1st, 2nd, 3rd), not every digit.
+4. Test it: send `Are you sure about the total of the first store? Show how you obtained it.`
+5. Observe: does it confirm, correct itself, or show its work?
 
 ## Step 4 — Question 2: which division weighs the most? (4 min)
-1. Type:
+1. Send:
    ```
    Which division generates the most revenue_eur, and what share of the total does each division represent? Table please.
    ```
-2. Press **Enter**.
    - ✅ Expected: **Watches & Fine Jewelry** is the biggest, around half of the revenue; **Fragrance & Beauty** the smallest.
-3. Ask: `Why would this division weigh so much, given only the data in the file?` and check whether Copilot sticks to the data (the price range) or invents reasons.
+2. Send: `Why would this division weigh so much, given only the data in the file?` Does Copilot stick to the data (the price range) or invent reasons?
 
 ## Step 5 — Question 3: is there seasonality? (6 min)
-1. Type:
+1. Send:
    ```
    For the year 2025 only, give me the total units per month, all stores together. Which months are the highest and the lowest?
    ```
-   (We use **units** here: revenue jumps around because a single watch costs thousands of euros.)
-2. Press **Enter**.
+   (We use **units**: revenue jumps around because a single watch costs thousands of euros.)
    - ✅ Expected: **November and December** are the highest; **January, February and August** are among the lowest.
-3. Type: `Show the result as a simple text bar chart.` and press **Enter**. Copilot may draw bars with characters.
-4. Type: `Explain in one sentence what a retail director should do with this information.`
+2. Send: `Show the result as a simple bar chart made of text characters.`
+3. Send: `Explain in one sentence what a retail director should do with this information.`
 
 ## Step 6 — Question 4: did a store behave abnormally in 2026? (10 min)
 This is the heart of the mystery.
-1. Start by comparing a month to the same month last year. Type:
+1. Send:
    ```
    Compare total units in March 2026 versus March 2025 for each store. Show the percentage change in a table, sorted from the biggest drop.
    ```
-2. Press **Enter**.
    - ✅ Expected: one store stands out with a drop of roughly **−40 to −50%**: **Tokyo Ginza**.
-   - 🆘 If Copilot hesitates, ask: `Which store has the largest drop and by how much?`
-3. Check by hand:
-   - In the editor, click in `monthly_summary.csv` and press `Ctrl + F` (Mac: `Command + F`).
-   - Type `2026-03,B04` and look at the 3 matching rows (one per division). Add their `units` in your head.
-   - Do the same with `2025-03,B04`.
-   - ✅ Your totals should be close to what Copilot reported.
-4. Now ask whether it is the whole region or one store:
+   - 🆘 If Copilot hesitates, send: `Which store has the largest drop and by how much?`
+2. **Check by hand:** in your spreadsheet window, apply a filter on `store_id` = `B04` and `month` = `2026-03`. Add the 3 `units` values. Do the same for `2025-03`.
+   - ✅ Your totals should be close to Copilot's.
+   - 🆘 Don't know how to filter? Use the spreadsheet's search (`Ctrl + F` on Windows, `Command + F` on Mac) for `2026-03` and look at the rows of `Tokyo Ginza`.
+3. Ask whether it is the whole region or one store:
    ```
    Tokyo Ginza and Osaka Shinsaibashi are both in the Japan region. Compare their monthly units for 2026 and tell me whether Osaka shows the same drop.
    ```
-5. Press **Enter**.
    - ✅ Expected: **Osaka is not affected**. The problem is local to Tokyo Ginza.
-6. Finally ask: `What are 3 possible explanations to investigate, and what data would I need to confirm each one?`
+4. Send: `What are 3 possible explanations to investigate, and what data would I need to confirm each one?`
    - Notice that Copilot **cannot know** the cause from this file. A good answer lists hypotheses and the data needed.
 
-## Step 7 — Spot data-quality problems (8 min)
-1. In the Explorer, click `sales_sample.csv` to open it. It has about 114 rows: scroll through it for one minute and note anything odd.
-2. In the Chat, type:
+## Step 7 — Spot data-quality problems (10 min)
+1. In your project folder, open `data/sales_sample.csv` in the spreadsheet. Scroll for one minute and note anything odd.
+2. In the app, send:
    ```
-   Look at #sales_sample.csv. List every data-quality problem you find (duplicates, negative quantities, unknown product codes, badly formatted dates, missing values). For each problem, give the row and explain why it is a problem.
+   Look at @sales_sample.csv. List every data-quality problem you find (duplicates, negative quantities, unknown product codes, badly formatted dates, missing values). For each problem, give the row and explain why it is a problem.
    ```
-3. Press **Enter**.
-4. Verify each finding by hand. In the editor, press `Ctrl + F` and search for:
+3. Verify each finding yourself in the spreadsheet (use search):
    - `SKU999` → an unknown product code.
-   - `/` → a date written as day/month/year instead of year-month-day.
-   - `,-1,` → a negative quantity.
-   - `,,` → a missing value (an empty channel).
-5. Count how many problems Copilot found, how many you found, and how many of its findings were wrong or missing.
+   - A date with `/` (such as `14/03/2026`) → day/month/year instead of year-month-day.
+   - A **negative** number in `quantity`, such as `-1`.
+   - An **empty cell** in `channel`.
+4. Count: problems Copilot found, problems you found, and Copilot's wrong or missing findings.
    - ✅ The sample contains **five types** of problems (including two duplicated rows).
+
+## Step 8 — Check what changed (1 min)
+Click **Changes** above the prompt box. ✅ It should be empty. If not, send `Undo your changes.`
 
 ---
 
 ## ✅ Success checklist
-- [ ] You identified the **Tokyo Ginza drop in March 2026** and saw that **Osaka** (same region) is not affected.
+- [ ] You identified the **Tokyo Ginza drop in March 2026** and saw that **Osaka** is not affected.
 - [ ] You asked Copilot **how it computed** at least once and checked one number yourself.
 - [ ] You found at least 2 data-quality problems in `sales_sample.csv` by yourself.
-- [ ] You can say, in one sentence, why Copilot should not be given a 21,000-row file to add up.
+- [ ] **Changes** stayed empty.
 
 ## Bonus
-Ask Copilot: `Write a 5-line email to the retail director with my 3 main conclusions.` Create a file in `my-work` (right-click the folder `my-work` → **New File** → `email.md` → **Enter**), paste the email, and press `Ctrl + S` to save.
+Send: `Write a 5-line email to the retail director with my 3 main conclusions.` Then send: `Save it as my-work/email.md.` Click **Changes** to see the new file, and open it from your project folder (`my-work`).
 
 ## Going further
 Ready to build a repeatable analysis? Try [A2 — Clean and analyze](../2-Builder/A2-Clean-and-Analyze.md).

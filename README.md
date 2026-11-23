@@ -1,13 +1,13 @@
 # 🏰 Copilot Business Dojo — Maison Orélia
 
-A GitHub Copilot dojo for **non-technical people**, built around realistic business use cases. Each participant picks a **track** and a **level**, and can move up or down at any time.
+A dojo for **non-technical people** using the **GitHub Copilot desktop app**, built around realistic business use cases. Each participant picks a **track** and a **level**, and can move up or down at any time.
 
 > Maison Orélia is a **fictional** luxury house. All data is synthetic.
 
 ## Start here
-1. Check the [prerequisites](./docs/00-prerequisites.md) and create **your own copy** of the repo (fork). Do it a day before.
-2. Read the [15-minute introduction to GitHub Copilot](./docs/01-getting-started-with-copilot.md).
-3. Follow the [click-by-click setup guide](./docs/02-setup-click-by-click.md) to open your Codespace and Copilot Chat (nothing to install).
+1. Do the [prerequisites](./docs/00-prerequisites.md): install Git and the **GitHub Copilot desktop app**, sign in, and fork this project. Do it a day before.
+2. Read the [15-minute introduction](./docs/01-getting-started-with-copilot.md).
+3. Follow the [app tour](./docs/02-setup-click-by-click.md).
 4. Do the [warm-up adventure](./Adventures/StartHere.md).
 5. Pick a track and a level. Discovery adventures are written step by step, click by click.
 
@@ -24,7 +24,7 @@ A GitHub Copilot dojo for **non-technical people**, built around realistic busin
 Each track follows the same thread: **understand → build → industrialise**.
 
 ## Contents
-- `docs/`: prerequisites, Copilot introduction, click-by-click setup, organisation, current process, knowledge base (with deliberately contradictory versions)
+- `docs/`: prerequisites, introduction to the Copilot app, app tour, organisation, current process, knowledge base (with deliberately contradictory versions)
 - `Adventures/`: the 9 adventures + the warm-up
 - `data/`: raw sales (12 stores), a clean monthly summary, a small dirty sample, products (23 items, 3 divisions), stores (6 regions), support tickets — fictional, with deliberate anomalies
 - `my-work/`: your working folder

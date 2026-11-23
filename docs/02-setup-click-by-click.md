@@ -1,107 +1,102 @@
-# Setup, click by click (10 minutes)
+# App tour, click by click (15 minutes)
 
-Do this once, before any adventure. Nothing to install on your computer: everything runs in your web browser.
+Do this on the day of the dojo, once. It assumes you completed the [prerequisites](./00-prerequisites.md): the app is installed, you are signed in, and your copy of the project (`ai-dojo`) is added.
 
-> **Prerequisite:** you must already have your own copy of the repository and Copilot access. If not, do the [prerequisites](./00-prerequisites.md) first. If your Codespace is already open and Copilot answered "Hello", skip to **Part 2**.
-
-> **About this guide.** Buttons and labels in VS Code and GitHub change from time to time. Every step has a **✅ You should see** check and a **🆘 If not** fallback. If your screen differs slightly, look for the closest match, or ask your facilitator.
+> **About this guide.** Labels in the app can change. Every step has a **✅ You should see** check and a **🆘 If not** fallback. If your screen differs slightly, look for the closest match, or ask your facilitator.
 > **Convention:** **bold** = something to click or a label on screen. `code style` = something to type or copy-paste exactly.
 
 ---
 
-## Part 1 — Open your workspace (Codespace)
-
-1. Open **your own copy** of the repository in your web browser: `https://github.com/YOUR-USERNAME/ai-dojo` (the fork you created in the [prerequisites](./00-prerequisites.md)).
-   - ✅ You should see the repository name at the top left and a list of files and folders (`Adventures`, `data`, `docs`…).
-   - 🆘 If you see a "404" or "Not found": you are probably not signed in to GitHub. Click **Sign in** (top right), then reload the page.
-2. Find the green button labelled **Code**, at the top right of the file list. Click it.
-   - ✅ A small window opens with tabs (**Local**, **Codespaces**).
-3. Click the **Codespaces** tab.
-4. Click the green button that says **Create codespace on main** (the label may simply read **Create codespace**).
-   - ✅ A new browser tab opens with a "Setting up your codespace" message and a progress bar.
-   - 🆘 If a message says you cannot create a codespace (quota or policy): tell your facilitator. Your organisation may need to enable Codespaces for you.
-5. **Wait 1 to 3 minutes** without closing the tab. The screen will change by itself.
-   - ✅ You should see a code editor in your browser, with a left sidebar listing files (`Adventures`, `data`, `docs`…).
-6. If a **Welcome** tab or a pop-up appears in the middle of the screen, close it by clicking the small **✕** on its tab or pop-up.
-7. Wait until text stops scrolling in the black panel at the bottom (it is installing tools). This can take about a minute more.
-
-### Your screen at a glance
-| Zone | Where | What it is |
-|---|---|---|
-| **Explorer** | Left side. The icon at the top of the thin vertical bar (looks like two sheets of paper). | The list of files and folders. |
-| **Editor** | Large central area. | Where files open, in tabs. |
-| **Panel** (terminal) | Bottom. | For commands. **You can ignore it** in the no-code adventures. |
-| **Chat icon** | Top of the window, in the title bar near the search box. | Opens Copilot Chat. |
-| **Chat view** | Appears on the side when you open chat. | Where you talk to Copilot. |
+## Part 1 — Meet the sidebar
+1. Open the **GitHub Copilot** app.
+   - ✅ The main screen opens, with a **sidebar** on the left.
+2. Look at the sidebar. The items you will use:
+   | Item | What it is |
+   |---|---|
+   | **New** | Starts a new agent session. |
+   | **Sessions** | Your connected projects and their sessions. A **+** control next to it starts a new session or adds a project. |
+   | **Chats** | General conversations without a workspace. |
+   | **Issues**, **Pull requests** | Work items from GitHub (used in adventure C3). |
+   | **Customize** | Skills, plugins and tools. |
+3. Under **Sessions**, check that `ai-dojo` is listed.
+   - 🆘 If not, redo Part 5 of the prerequisites.
 
 ---
 
-## Part 2 — Open a file
-
-1. In the **Explorer** (left), click the small arrow **›** next to the folder `data` to open it.
-   - ✅ You see `products.csv`, `sales.csv`, `stores.csv`, `support_tickets.csv`.
-2. Click once on `products.csv`.
-   - ✅ The file opens in the central editor, as a table-like list with colours for each column.
-   - 🆘 If it looks like plain text separated by commas: that is normal too. Colours come from an extension that may still be loading.
-3. To go back to another file, click its name in the Explorer, or click its tab at the top of the editor.
-
----
-
-## Part 3 — Open Copilot Chat
-
-1. Click the **chat icon** in the title bar at the top of the window.
-   - Keyboard alternative: `Ctrl + Alt + I` (Windows/Linux) or `Control + Command + I` (Mac).
-   - ✅ A **Chat** panel opens with a text box at the bottom (it invites you to ask something).
-   - 🆘 If a button asks you to **Sign in** or **Use GitHub Copilot**: click it and follow the browser prompts with the GitHub account that has Copilot.
-   - 🆘 If nothing happens, wait one minute (extensions may still be loading) and try again. If it still fails, tell your facilitator.
-2. Look at the bottom of the Chat panel, around the text box. You will see small drop-down controls, among them one labelled **Agent** (it may read **Ask**, **Plan** or **Agent** depending on the last choice) and one showing a **model name**.
-3. Click the drop-down labelled **Agent** (or **Ask**/**Plan**).
-4. Click **Ask** in the list.
-   - ✅ The drop-down now says **Ask**. This is the safe mode: Copilot answers your questions but **does not change any file**.
-   - 🆘 If you do not see **Ask**: choose the option whose description says it only answers questions without editing.
-5. Leave the model drop-down as it is, unless your facilitator tells you otherwise.
+## Part 2 — Start a session (your daily gesture)
+1. In the sidebar, click the **new session** control next to **Sessions** (a **+** icon).
+2. Under **Start session in**, click `ai-dojo`.
+   - ✅ A screen with a **prompt box** appears, with drop-downs below it.
+3. Below the prompt box, check the **Environment** drop-down. It must say **This computer**. If not, click it and choose **This computer**.
+4. Check the **Workspace** drop-down. It must say **Current checkout**. If not, click it and choose **Current checkout**.
+5. Click the **mode** drop-down (it may read **Interactive**, **Plan** or **Autopilot**) and choose **Interactive**.
+6. In the same menu, move your mouse over **Tool permissions** and click **Assisted**.
+   - ✅ The setting is now **Assisted**.
+   - 🚫 Do not choose **Approve all**.
+7. Leave the **model** and **reasoning effort** drop-downs as they are.
 
 ---
 
-## Part 4 — Send your first message
-
-1. Click inside the text box at the bottom of the Chat panel.
-2. Type: `Hello! In one sentence, what can you help me with in this project?`
-3. Press **Enter** on your keyboard.
-   - ✅ Words appear gradually: Copilot is answering. Wait until it stops.
-4. Read the answer. You can scroll inside the Chat panel.
-
----
-
-## Part 5 — Show Copilot a file (context)
-
-Copilot answers better when you **point to the file**. Two ways:
-
-**Way 1 — type `#`**
-1. In the text box, type `#`.
-   - ✅ A list of suggestions pops up (files, folders…).
-2. Type a few letters of the file name, for example `products`.
-3. Click the matching suggestion (for example `products.csv`) in the list, or use the arrow keys and press **Enter**.
-   - ✅ A small tag with the file name appears in your message.
-4. Then type your question after the tag and press **Enter**.
-
-**Way 2 — type the full mention**
-- You can also type the mention yourself: `#file:data/products.csv` followed by a space and your question.
-
-To give a **whole folder**: type `#folder:docs/knowledge-base`.
+## Part 3 — Send your first message
+1. Click inside the prompt box.
+2. Paste the safety sentence:
+   ```
+   Rule for this session: do not create, modify or delete any file unless I explicitly ask you to. Answer only from the project files.
+   ```
+3. Press **Enter**.
+   - ✅ Copilot confirms it understood.
+4. Type: `What can you tell me about this project in three sentences?` and press **Enter**.
+   - ✅ Words appear gradually: Copilot is reading the project and answering. Wait until it stops.
+   - If a **permission request** appears (Copilot wants to read files or run something): read it, then allow it if it is about reading the project's files. See the permission rules in the [introduction](./01-getting-started-with-copilot.md#tool-permissions).
 
 ---
 
-## Part 6 — Useful habits
+## Part 4 — Point Copilot to a file with `@`
+1. In the prompt box, type `@`.
+   - ✅ A list of files pops up.
+2. Type a few letters, for example `products`.
+3. Click `products.csv` in the list (or use the arrow keys and press **Enter**).
+   - ✅ The file is attached to your message.
+4. Type your question after it, for example: `What does each column mean?` and press **Enter**.
+   - 🆘 If no list appears, type the path yourself: `data/products.csv`.
 
+---
+
+## Part 5 — Find your project folder and open files on your computer
+The app focuses on conversation: to **look at the files yourself** (and verify Copilot), you open them with your computer's normal programs.
+1. In your session, type and send:
+   ```
+   What is the full path of this project folder on my computer? Give me only the path.
+   ```
+2. Copy the path Copilot gives you.
+3. Open the folder:
+   - **Windows:** open **File Explorer**, click in the address bar at the top, paste the path, press **Enter**.
+   - **macOS:** in **Finder**, press `Shift + Command + G`, paste the path, press **Enter**.
+4. ✅ You see the folders `Adventures`, `data`, `docs`, `my-work`.
+5. **Pin the folder** so you can come back: Windows, right-click the folder → **Pin to Quick access**; macOS, drag the folder to the Finder sidebar.
+6. To open a file:
+   - **CSV files** (`data/*.csv`): double-click. They open in a spreadsheet program (Excel, Numbers). Look, but do not save changes.
+   - **Markdown files** (`.md`) and other text files: right-click → **Open with** → **Notepad** (Windows) or **TextEdit** (macOS).
+   - 🆘 If a program asks to convert or repair a CSV: cancel, and keep the file untouched.
+
+---
+
+## Part 6 — Check what Copilot changed
+1. Above the prompt box, click **Changes**.
+   - ✅ It shows the differences made to your project. In a read-only task it should be **empty**.
+2. If you see a change you did not ask for: type `Undo your changes to that file.` and press **Enter**, then check **Changes** again.
+
+---
+
+## Part 7 — Useful habits
 | I want to… | Do this |
 |---|---|
-| **Start fresh** on a new topic | Click the **+** icon at the top of the Chat panel (tooltip: **New Chat**). Previous answers stay available in the history. |
-| **Ask a follow-up** | Just type in the same chat box: "shorter", "as a table", "explain step 2". |
-| **Copy an answer** | Select the text with your mouse, then `Ctrl + C` (Mac: `Command + C`). Or use the **copy** icon shown on code or text blocks. |
-| **Create a new file** | In the Explorer, right-click the folder `my-work` → **New File** → type the name (for example `notes.md`) → press **Enter**. Paste your text, then `Ctrl + S` to save. |
-| **See a Markdown file nicely formatted** | Open the `.md` file, then click the small **preview** icon at the top right of the editor, or press `Ctrl + Shift + V` (Mac: `Command + Shift + V`). |
-| **Stop a long answer** | Click the **Stop** (square) button that replaces the send button while Copilot writes. |
+| **Start fresh** on a new topic | Click the **+** next to **Sessions** and start a new session (repeat Parts 2 and 3). |
+| **Brainstorm without a workspace** | Use **Chats** in the sidebar. |
+| **Ask a follow-up** | Type in the same prompt box: "shorter", "as a table", "explain step 2". |
+| **See keyboard shortcuts** | In the app menu bar: **Help → Keyboard Shortcuts**. |
+| **Tidy up** | Right-click a chat → **Archive chat**. For sessions: app **Settings → Sessions → Manage sessions**. |
+| **Have Copilot create a file** | Ask in plain words: "Save this as `my-work/email.md`." Then check **Changes**. |
 
 ## You are ready
 Go to the [warm-up adventure](../Adventures/StartHere.md).

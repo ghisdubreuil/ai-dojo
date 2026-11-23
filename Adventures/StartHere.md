@@ -1,77 +1,79 @@
 # Warm-up adventure — Your first Copilot reflex
 
-**Duration: 15 min · Level: everyone · No coding knowledge required · Mode: Ask**
+**Duration: 20 min · Level: everyone · No coding knowledge required · Mode: Interactive**
 
-**Before you start:** you completed the [prerequisites](../docs/00-prerequisites.md), your Codespace is open and you did [the setup guide](../docs/02-setup-click-by-click.md) (at least Parts 1 to 4). If you have not read the [introduction to Copilot](../docs/01-getting-started-with-copilot.md), do it now (5 min).
+**Before you start:** you completed the [prerequisites](../docs/00-prerequisites.md), read the [introduction to Copilot](../docs/01-getting-started-with-copilot.md) and did the [app tour](../docs/02-setup-click-by-click.md).
 
 ## Context
 Welcome to **Maison Orélia**, a fictional luxury house. You are a newcomer and you are handed files you have never seen. Your mission: tame your copilot.
 
-## Step 1 — Understand the company (2 min)
-1. In the **Explorer** (left), click the small arrow **›** next to the folder `docs` to open it.
-2. Click `organisation.md`.
-   - ✅ The file opens in the editor.
-3. Press `Ctrl + Shift + V` (Mac: `Command + Shift + V`) to see it nicely formatted.
+## Step 1 — Open your project folder on your computer (3 min)
+1. Open the folder you pinned in the app tour (File Explorer or Finder).
+   - 🆘 Lost it? In the app, open a session and ask: `What is the full path of this project folder?`, then paste it in File Explorer's address bar (Windows) or in Finder with `Shift + Command + G` (macOS).
+2. Double-click the folder `docs`, then right-click `organisation.md` → **Open with** → **Notepad** (Windows) or **TextEdit** (macOS).
    - ✅ You see two tables: 3 divisions and 6 regions.
-4. Read it. Write down (in your head) the 3 divisions.
+3. Read it (2 min). Remember the 3 divisions.
 
-## Step 2 — Open Copilot in Ask mode (1 min)
-1. Click the **chat icon** in the title bar at the top of the window (or press `Ctrl + Alt + I`).
-2. At the bottom of the Chat panel, click the drop-down that says **Agent** (or **Plan**), then click **Ask**.
-   - ✅ The drop-down says **Ask**.
-3. If an old conversation is shown, click the **+** icon at the top of the Chat panel to start a new chat.
+## Step 2 — Start a safe session (3 min)
+1. In the app, click the **+** next to **Sessions** in the sidebar.
+2. Under **Start session in**, click `ai-dojo`.
+3. Below the prompt box, check: **Environment** = **This computer**, **Workspace** = **Current checkout**, mode = **Interactive**, **Tool permissions** = **Assisted**. (Change any that differ, see the [app tour, Part 2](../docs/02-setup-click-by-click.md#part-2--start-a-session-your-daily-gesture).)
+4. Click in the prompt box, paste this and press **Enter**:
+   ```
+   Rule for this session: do not create, modify or delete any file unless I explicitly ask you to. Answer only from the project files.
+   ```
+   - ✅ Copilot confirms.
 
-## Step 3 — Ask about a file (4 min)
-1. In the **Explorer**, open the folder `data` and click `products.csv` so you can see it.
-2. Click in the text box at the bottom of the Chat panel.
-3. Type `#`, then type `products`, then click the suggestion `products.csv` in the pop-up list.
-   - ✅ A tag with the file name appears in the text box.
-4. Click after the tag and type this question (or copy-paste it):
+## Step 3 — Ask about a file (5 min)
+1. In the prompt box, type `@`, then `products`, then click `products.csv` in the list.
+   - ✅ The file is attached.
+2. After it, type (or paste) and press **Enter**:
    ```
    Explain this file to me as if I were new to the company. What does each column mean?
    ```
-5. Press **Enter** and wait until the answer stops.
-6. Read the answer. Check it against the file: pick one product in the editor and verify that Copilot described its columns correctly.
+3. Wait until the answer stops. If a **permission request** appears, read it and allow it if it is only about reading a project file.
+4. **Check it yourself:** in your project folder, open `data/products.csv` (double-click, it opens in a spreadsheet). Pick one product and verify that Copilot described its columns correctly.
    - ✅ Success: Copilot mentions division, category, price and cost.
-   - 🆘 If Copilot says it cannot see the file: repeat step 3 and make sure the tag with the file name is really in your message.
+   - 🆘 If Copilot says it cannot see the file: repeat step 1 and make sure the file is attached.
 
-## Step 4 — Ask for a calculation, and make it show its work (4 min)
-1. Keep the same chat. Click in the text box and type (copy-paste is fine):
+## Step 4 — Ask for a calculation, and make it show its work (5 min)
+1. In the same session, type and send:
    ```
    Which division has the highest average price? Show me how you compute it, step by step.
    ```
-2. Press **Enter** and wait.
-3. Check the answer by hand:
-   - Click `products.csv` in the Explorer.
-   - Pick the division Copilot named and look at 3 or 4 of its prices.
-   - Ask yourself: "Is it plausible that this division has the highest prices?"
-   - ✅ Expected: **Watches & Fine Jewelry** (its prices are in the thousands).
-4. Notice whether Copilot showed its method. If not, type: `Show your calculation.` and press **Enter**.
+2. Check by hand in the spreadsheet: look at 3 or 4 prices in the division Copilot named.
+   - ✅ Expected: **Watches & Fine Jewelry** (prices in the thousands).
+3. If Copilot did not show its method, send: `Show your calculation.`
 
-## Step 5 — Be tricky (3 min)
-1. Click the **+** icon to start a **new chat**.
+## Step 5 — Be tricky (4 min)
+1. Start a **new session** (+ next to **Sessions**, **ai-dojo**, same settings, paste the safety sentence again).
 2. Ask this deliberately vague question and press **Enter**:
    ```
    Which are the best products?
    ```
 3. Observe: did Copilot ask what you mean by "best"? Or did it pick a definition itself (price, margin…)?
-4. Now answer precisely, in the same chat:
+4. Answer precisely, in the same session:
    ```
-   By "best" I mean the highest margin in euros. Use #products.csv and show the top 5 with the calculation.
+   By "best" I mean the highest margin in euros (price minus cost). Use @products.csv and show the top 5 with the calculation.
    ```
-   (Type `#`, choose `products.csv` in the list, and keep the rest of the sentence.)
-5. Verify one line by hand: margin = price − cost.
+5. Verify one line by hand in the spreadsheet: price − cost.
+
+## Step 6 — Check what changed (1 min)
+1. Click **Changes** above the prompt box.
+   - ✅ It should be **empty**: Copilot respected your safety sentence.
+   - If not, note which file it touched and send: `Undo your changes.` Then check **Changes** again.
 
 ## What to remember
 - A **precise question** (goal, file, format) gives a better answer than a vague one.
 - Copilot can be wrong: **check one number by hand**.
-- You can keep talking: "shorter", "as a table", "explain step 2".
+- Check **Changes** after every session: you are in charge.
 
 ## ✅ Checklist: you are done when…
-- [ ] You opened Chat and switched to **Ask** mode.
-- [ ] You gave Copilot a file with `#`.
-- [ ] You verified at least one number yourself.
+- [ ] You started a session with the right settings (**Interactive**, **Assisted**).
+- [ ] You attached a file with `@`.
+- [ ] You verified at least one number yourself in the file.
 - [ ] You saw the difference between a vague and a precise question.
+- [ ] **Changes** was empty at the end.
 
 ## Choose your track
 | Track | Discovery | Builder | Expert |
