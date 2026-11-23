@@ -1,7 +1,7 @@
 # Facilitator guide
 
 ## Before the day
-See the checklist for facilitators in [`docs/00-prerequisites.md`](./docs/00-prerequisites.md#10-for-the-facilitator-before-the-day): seats and app policy, software installation, fork or template, a dry run on each operating system.
+See the checklist for facilitators in [`docs/00-prerequisites.md`](./docs/00-prerequisites.md#10-for-the-facilitator-before-the-day): company SSO sign-in, Copilot access and app policy, software installation, the company template, a dry run on each operating system.
 
 ## Recommended format: 3-hour dojo (8–20 people)
 | Time | Session |
@@ -26,7 +26,7 @@ Golden rule: **you can go up or down at any time.** Someone stuck in Builder dro
 - Pair an Expert with a Discovery participant (pair programming) for Round 2.
 
 ## Points of attention
-- Licences: each participant needs Copilot access (or their own model provider). Verify **before** the day, along with the organisation's Copilot app policy.
+- Access: participants sign in with their company login (SSO) and Copilot access is provided by the company. Verify **before** the day, along with the organisation's Copilot app policy.
 - Software installation: Git and the app must be installed **before** the day (corporate laptops often block installs).
 - Data: everything is fictional, but repeat the rule "never put real confidential data in a prompt" for real-world use.
 - A model's numbers are not to be believed, they are to be verified.
@@ -34,7 +34,7 @@ Golden rule: **you can go up or down at any time.** Someone stuck in Builder dro
 - Consider adding screenshots of your own screen to the app tour after the dry run (a `docs/images/` folder works well).
 - There is no read-only mode: teach the safety sentence and the habit of checking **Changes**.
 - The app has no built-in file viewer in its documentation: participants open files with their computer's normal programs (spreadsheet for CSV, Notepad or TextEdit for Markdown).
-- Have a facilitator or buddy per 4–5 participants during the setup: most blockers happen in the first 10 minutes (software installation, sign-in, Copilot seat).
+- Have a facilitator or buddy per 4–5 participants during the setup: most blockers happen in the first 10 minutes (software installation, company sign-in, Copilot access).
 - Discovery adventures use small files on purpose: adding up 21,000 rows in conversation is where assistants slip. This is itself a lesson to share.
 
 ## Reference solutions
